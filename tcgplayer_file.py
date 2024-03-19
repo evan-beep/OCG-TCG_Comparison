@@ -21,7 +21,7 @@ rarity_dict = {
     "Quarter Century Secret Rare": "QCSE"
 }
 
-csv_data = [["market", "rarity", "num", "price"]]
+csv_data = [["market", "rarity", "num", "price", "Currency"]]
 
 # folder is not kept
 folder_path = "tcgplayer_web\\*.txt"
@@ -39,12 +39,13 @@ for filename in glob.glob(folder_path):
             "TCGPlayer",  # Market
             rarity_dict[card_info['rarity']],  # Rarity
             card_info['code'],  # Num (code)
-            card_info['market_price']  # Price
+            card_info['market_price'],  # Price,
+            "USD"
         ]
 
         csv_data.append(csv_row)
 
-csv_file_path = 'DataTables\\TCGPlayer.csv'
+csv_file_path = 'DataTables\\all_data.csv'
 
 import csv
 # Write data to CSV

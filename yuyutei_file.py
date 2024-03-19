@@ -7,8 +7,7 @@ from bs4 import BeautifulSoup
 with open("yuyutei_web\\yuyutei.htm", "r", encoding="utf-8") as file:
     content_ocg = file.read()
    
-csv_data = [["market", "rarity", "num", "price"]]
-
+csv_data = []
 soup_ocg = BeautifulSoup(content_ocg, 'html.parser')
 for cl in soup_ocg.find_all(id="card-list3"):
     rarity_name = cl.find(class_="py-2 d-inline-block px-2 me-2 text-white fw-bold")
@@ -20,22 +19,24 @@ for cl in soup_ocg.find_all(id="card-list3"):
                 "Yuyu-Tei",
                 rarity_name.text,
                 cd.find(class_="d-block border border-dark p-1 w-100 text-center my-2").text,
-                int(cd.find(class_="d-block text-end").text.split()[0].replace(",", ""))
+                int(cd.find(class_="d-block text-end").text.split()[0].replace(",", "")),
+                "JPY"
             ]
         except:
             csv_row = [
                 "Yuyu-Tei",
                 rarity_name.text,
                 cd.find(class_="d-block border border-dark p-1 w-100 text-center my-2").text,
-                0
+                0,
+                "JPY"
             ]
         csv_data.append(csv_row)
         
-csv_file_path = 'DataTables\\Yuyu-tei.csv'
+csv_file_path = 'DataTables\\all_data.csv'
 
 import csv
 # Write data to CSV
-with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
+with open(csv_file_path, 'a', newline='', encoding='utf-8') as csv_file:
     writer = csv.writer(csv_file)
     writer.writerows(csv_data)
 
