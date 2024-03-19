@@ -31,7 +31,7 @@ for cl in soup_ocg.find_all(id="card-list3"):
             ]
         csv_data.append(csv_row)
         
-csv_file_path = 'Yuyu-tei.csv'
+csv_file_path = 'DataTables\\Yuyu-tei.csv'
 
 import csv
 # Write data to CSV

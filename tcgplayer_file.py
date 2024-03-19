@@ -44,7 +44,7 @@ for filename in glob.glob(folder_path):
 
         csv_data.append(csv_row)
 
-csv_file_path = 'TCGPlayer.csv'
+csv_file_path = 'DataTables\\TCGPlayer.csv'
 
 import csv
 # Write data to CSV
