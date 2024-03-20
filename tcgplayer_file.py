@@ -5,6 +5,7 @@ The txt files are manually saved from the website, no bots involved
 
 import re
 import glob
+from datetime import datetime
 
 pattern = re.compile(
     r"(?P<rarity>.+?)·\s#(?P<code>\w+-\w+)\n\n"
@@ -21,35 +22,39 @@ rarity_dict = {
     "Quarter Century Secret Rare": "QCSE"
 }
 
-csv_data = [["market", "rarity", "num", "price", "Currency"]]
+def get_data_from_txt():
+    csv_data = [["market", "rarity", "num", "price", "Currency", "Set", "Price Date"]]
 
-# folder is not kept
-folder_path = "tcgplayer_web\\*.txt"
+    # folder is not kept
+    folder_path = "tcgplayer_web\\*.txt"
 
-for filename in glob.glob(folder_path):
-    with open(filename, 'r', encoding='utf-8') as file:
-        text_content = file.read()
+    for filename in glob.glob(folder_path):
+        with open(filename, 'r', encoding='utf-8') as file:
+            text_content = file.read()
 
-    matches = pattern.finditer(text_content)
+        matches = pattern.finditer(text_content)
 
-    for match in matches:
-        card_info = match.groupdict()
-        # print(f"{rarity_dict[card_info['rarity']]} {card_info['code']} {card_info['market_price']}")
-        csv_row = [
-            "TCGPlayer",  # Market
-            rarity_dict[card_info['rarity']],  # Rarity
-            card_info['code'],  # Num (code)
-            card_info['market_price'],  # Price,
-            "USD"
-        ]
+        for match in matches:
+            card_info = match.groupdict()
+            # print(f"{rarity_dict[card_info['rarity']]} {card_info['code']} {card_info['market_price']}")
+            csv_row = [
+                "TCGPlayer",  # Market
+                rarity_dict[card_info['rarity']],  # Rarity
+                card_info['code'],  # Num (code)
+                card_info['market_price'],  # Price,
+                "USD", #Currency
+                card_info['code'][:4], #Set ID,
+                datetime.now().strftime('%Y-%m-%d')
+            ]
 
-        csv_data.append(csv_row)
+            csv_data.append(csv_row)
+    return csv_data
 
-csv_file_path = 'DataTables\\all_data.csv'
+csv_file_path = 'DataTables\\tcgplayer.csv'
 
 import csv
 # Write data to CSV
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
     writer = csv.writer(csv_file)
-    writer.writerows(csv_data)
+    writer.writerows(get_data_from_txt())
 
