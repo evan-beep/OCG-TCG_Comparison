@@ -38,7 +38,7 @@ def get_data_from_txt():
             card_info = match.groupdict()
             # print(f"{rarity_dict[card_info['rarity']]} {card_info['code']} {card_info['market_price']}")
             csv_row = [
-                "TCGPlayer",  # Market
+                "TCG",  # Market
                 rarity_dict[card_info['rarity']],  # Rarity
                 card_info['code'],  # Num (code)
                 card_info['market_price'],  # Price,

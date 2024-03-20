@@ -23,7 +23,7 @@ def get_data_from_htm():
                 try:
                     setNum = cd.find(class_="d-block border border-dark p-1 w-100 text-center my-2").text
                     csv_row = [
-                        "Yuyu-Tei",
+                        "OCG",
                         rarity_name.text,
                         setNum,
                         int(cd.find(class_="d-block text-end").text.split()[0].replace(",", "")),
@@ -34,7 +34,7 @@ def get_data_from_htm():
                 except:
                     setNum = cd.find(class_="d-block border border-dark p-1 w-100 text-center my-2").text
                     csv_row = [
-                        "Yuyu-Tei",
+                        "OCG",
                         rarity_name.text,
                         setNum,
                         0,
