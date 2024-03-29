@@ -7,10 +7,12 @@ print(EXRate)
 
 
 df1 = pd.read_csv('DataTables\\tcgplayer.csv')
-df1['price'] *= EXRate
-df1['Currency'] = 'JPY'
+
 
 df2 = pd.read_csv('DataTables\\yuyutei.csv')
+
+df2['price'] /= EXRate
+df2['Currency'] = 'USD'
 
 merged_df = pd.concat([df1, df2])
 
