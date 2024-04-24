@@ -27,7 +27,6 @@ def get_OCG_card_prices(set_name):
         CREATE TABLE IF NOT EXISTS ocg_prices (
             cardName TEXT,
             rarity TEXT,
-            set_edition TEXT,
             num TEXT,
             price INTEGER,
             set_name TEXT,
@@ -52,9 +51,9 @@ def get_OCG_card_prices(set_name):
                 
                 # Insert data into the database
                 cursor.execute('''
-                    INSERT OR IGNORE INTO ocg_prices (cardName, rarity, set_edition, num, price, set_name, DateTime)
-                    VALUES (?, ?, ?, ?, ?, ?, ?)
-                ''', (cardName, rarity_name.text if rarity_name else 'Unknown', '', setNum, price, set_name, current_datetime))
+                    INSERT OR IGNORE INTO ocg_prices (cardName, rarity, num, price, set_name, DateTime)
+                    VALUES (?, ?, ?, ?, ?, ?)
+                ''', (cardName, rarity_name.text if rarity_name else 'Unknown', setNum, price, set_name, current_datetime))
 
             except Exception as e:
                 print(f"An error occurred while processing one of the cards: {e}")
