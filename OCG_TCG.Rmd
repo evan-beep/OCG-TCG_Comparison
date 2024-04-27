@@ -16,8 +16,8 @@ library(knitr)
 conn <- dbConnect(SQLite(), "Card_Prices.db")
 
 # Load data
-TCG <- dbReadTable(conn, "TCG_Prices")
-OCG <- dbReadTable(conn, "OCG_Prices")
+TCG_Prices  <- dbReadTable(conn, "TCG_Prices")
+OCG_Prices <- dbReadTable(conn, "OCG_Prices")
 ```
 
 ## R Markdown
@@ -26,22 +26,37 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-# Summary statistics
-summary(TCG$tcgplayer_price)
-summary(OCG$price)
+```{r price_dist}
 
-# Visualization
-ggplot(TCG, aes(x = tcgplayer_price)) + geom_histogram(binwidth = 1) + ggtitle("TCG Price Distribution")
-ggplot(OCG, aes(x = price)) + geom_histogram(binwidth = 1) + ggtitle("OCG Price Distribution")
+TCG_Prices$DateTime <- as.Date(TCG_Prices$DateTime)
+OCG_Prices$DateTime <- as.Date(OCG_Prices$DateTime)
+
+# Set the exchange rate, e.g., 1 JPY = 0.0073 USD
+exchange_rate <- 0.0063
+
+# Convert OCG prices to USD
+OCG_Prices$price_usd <- OCG_Prices$price * exchange_rate
+
+# Basic statistics
+summary(TCG_Prices)
+summary(OCG_Prices)
+
+# Price distribution comparison
+ggplot(TCG_Prices, aes(x = tcgplayer_price)) +
+  geom_histogram(bins = 30, fill = "blue", alpha = 0.7) +
+  ggtitle("TCG Player Price Distribution")
+
+ggplot(OCG_Prices, aes(x = price_usd)) +
+  geom_histogram(bins = 30, fill = "red", alpha = 0.7) +
+  ggtitle("OCG Price Distribution")
+
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r set_price_dist}
+ggplot() +
+  geom_boxplot(data = TCG_Prices, aes(x = rarity, y = tcgplayer_price, fill = "TCG"), outlier.size = 1) +
+  geom_boxplot(data = OCG_Prices, aes(x = rarity, y = price_usd, fill = "OCG"), outlier.size = 1) +
+  scale_y_log10() +  # Log transformation to deal with skewness
+  labs(title = "Comparison of Prices by Rarity", x = "Rarity", y = "Price (log scale)") +
+  scale_fill_manual(values = c("TCG" = "blue", "OCG" = "red"))
 ```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
