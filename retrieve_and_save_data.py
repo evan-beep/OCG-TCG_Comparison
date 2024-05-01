@@ -1,6 +1,7 @@
 from get_all_sets import get_all_sets
 from get_TCG_card_prices import get_TCG_card_prices
 from get_OCG_card_prices import get_OCG_card_prices
+from get_rakuten_data import get_rakuten
 import json
 import datetime
 import time
@@ -36,6 +37,8 @@ def main():
         get_TCG_card_prices(details['set_names'][0])
         
         time.sleep(0.1)
+        
+    get_rakuten()
 
 if __name__ == "__main__":
     main()
