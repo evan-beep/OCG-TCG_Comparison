@@ -36,6 +36,7 @@ def main():
         get_OCG_card_prices(set_code)
         get_TCG_card_prices(details['set_names'][0])
         
+        get_OCG_card_prices('INFO') #patch, not perma fix
         time.sleep(0.1)
         
     get_rakuten()
