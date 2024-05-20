@@ -26,8 +26,8 @@ def filter_sets(data):
 def main():
     
     #update sets every week
-    if datetime.datetime.now().weekday() == 3:
-        get_all_sets()
+    #if datetime.datetime.now().weekday() == 3:
+    #    get_all_sets()
         
     data = load_json_data('sets\\code_to_name.json')
     filtered_sets = filter_sets(data)
