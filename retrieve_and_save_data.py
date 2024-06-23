@@ -42,6 +42,8 @@ def main():
 
         get_OCG_card_prices('INFO')  # patch, not perma fix
         get_OCG_card_prices('dp29')
+        get_OCG_card_prices('ac04')
+        get_TCG_card_prices('Battles of Legend: Terminal Revenge')
         time.sleep(0.1)
 
     get_rakuten()

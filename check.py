@@ -1,9 +1,11 @@
 import sqlite3
 
+from get_all_sets import get_all_sets
+
 # Connect to the SQLite database
 conn = sqlite3.connect('Card_Prices.db')
 cursor = conn.cursor()
-
+get_all_sets()
 # List of tables
 tables = ['ocg_prices', 'rakuten_prices', 'tcg_prices']
 

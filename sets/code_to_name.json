@@ -373,6 +373,13 @@
         "tcg_date": "2018-06-28",
         "card_count": 105
     },
+    "BLTR": {
+        "set_names": [
+            "Battles of Legend: Terminal Revenge"
+        ],
+        "tcg_date": "0000-00-00",
+        "card_count": 117
+    },
     "BLVO": {
         "set_names": [
             "Blazing Vortex",
@@ -1110,7 +1117,7 @@
             "Duelist Nexus"
         ],
         "tcg_date": "2023-07-27",
-        "card_count": 100
+        "card_count": 99
     },
     "DPCT": {
         "set_names": [
@@ -1724,7 +1731,8 @@
     },
     "KACB": {
         "set_names": [
-            "Kaiba's Collector Box"
+            "Kaiba's Collector Box",
+            "Yugi & Kaiba Collector Box"
         ],
         "tcg_date": "2017-11-17",
         "card_count": 1
@@ -2413,6 +2421,13 @@
             "OTS Tournament Pack 24"
         ],
         "tcg_date": "2024-02-14",
+        "card_count": 27
+    },
+    "OP25": {
+        "set_names": [
+            "OTS Tournament Pack 25"
+        ],
+        "tcg_date": "0000-00-00",
         "card_count": 27
     },
     "OP03": {
@@ -3597,6 +3612,8 @@
             "The Lost Art Promotion 2023 G",
             "The Lost Art Promotion 2023 H",
             "The Lost Art Promotion 2023 I",
+            "The Lost Art Promotion 2024 A",
+            "The Lost Art Promotion 2024 B",
             "The Lost Art Promotion A",
             "The Lost Art Promotion B",
             "The Lost Art Promotion C",
@@ -4543,11 +4560,10 @@
     },
     "YUCB": {
         "set_names": [
-            "Yugi & Kaiba Collector Box",
             "Yugi's Collector Box"
         ],
-        "tcg_date": "2018-03-29",
-        "card_count": 2
+        "tcg_date": "2017-09-15",
+        "card_count": 1
     },
     "YGLD": {
         "set_names": [

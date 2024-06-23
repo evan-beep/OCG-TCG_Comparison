@@ -419,6 +419,13 @@
         "tcg_date": "2018-06-28",
         "card_count": 105
     },
+    "Battles of Legend: Terminal Revenge": {
+        "set_codes": [
+            "BLTR"
+        ],
+        "tcg_date": "0000-00-00",
+        "card_count": 117
+    },
     "Blazing Vortex": {
         "set_codes": [
             "BLVO"
@@ -1432,7 +1439,7 @@
             "DUNE"
         ],
         "tcg_date": "2023-07-27",
-        "card_count": 100
+        "card_count": 99
     },
     "Duelist Pack Collection Tin 2008": {
         "set_codes": [
@@ -3161,6 +3168,13 @@
             "OP24"
         ],
         "tcg_date": "2024-02-14",
+        "card_count": 27
+    },
+    "OTS Tournament Pack 25": {
+        "set_codes": [
+            "OP25"
+        ],
+        "tcg_date": "0000-00-00",
         "card_count": 27
     },
     "OTS Tournament Pack 3": {
@@ -5291,6 +5305,20 @@
         "tcg_date": "2023-09-01",
         "card_count": 1
     },
+    "The Lost Art Promotion 2024 A": {
+        "set_codes": [
+            "LART"
+        ],
+        "tcg_date": "2024-05-22",
+        "card_count": 1
+    },
+    "The Lost Art Promotion 2024 B": {
+        "set_codes": [
+            "LART"
+        ],
+        "tcg_date": "0000-00-00",
+        "card_count": 1
+    },
     "The Lost Art Promotion A": {
         "set_codes": [
             "LART"
@@ -6763,10 +6791,10 @@
     },
     "Yugi & Kaiba Collector Box": {
         "set_codes": [
-            "YUCB"
+            "KACB"
         ],
         "tcg_date": "2018-03-29",
-        "card_count": 2
+        "card_count": 1
     },
     "Yugi's Collector Box": {
         "set_codes": [
