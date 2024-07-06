@@ -62,6 +62,7 @@ def get_OCG_card_prices(set_name):
     conn.commit()
     conn.close()
 
-    print("Data saved to SQLite database")
+    print(f"OCG {set_name} Data saved to SQLite database")
 
-get_OCG_card_prices("AGOV")
+if __name__ == "__main__":
+    get_OCG_card_prices("AGOV")

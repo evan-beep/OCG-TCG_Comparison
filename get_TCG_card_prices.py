@@ -66,11 +66,12 @@ def get_TCG_card_prices(set_name):
                     ''', record)
         
         conn.commit()  # Commit changes to the database
-        print("Data saved to SQLite database")
+        print(f"TCG {set_name} Data saved to SQLite database")
     else:
         print("Failed to retrieve data:", response.status_code, response.text)
     
     # Close the database connection
     conn.close()
 
-get_TCG_card_prices("Phantom Nightmare")
+if __name__ == "__main__":
+    get_TCG_card_prices("Phantom Nightmare")
