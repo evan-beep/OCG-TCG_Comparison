@@ -1,0 +1,4596 @@
+{
+    "YS15": {
+        "set_names": [
+            "2-Player Starter Deck: Yuya & Declan",
+            "Dark Legion Starter Deck",
+            "Saber Force Starter Deck"
+        ],
+        "tcg_date": "2015-05-28",
+        "card_count": 42
+    },
+    "STAS": {
+        "set_names": [
+            "2-Player Starter Set"
+        ],
+        "tcg_date": "2024-01-26",
+        "card_count": 88
+    },
+    "CT10": {
+        "set_names": [
+            "2013 Collectible Tins Wave 1",
+            "2013 Collectible Tins Wave 2"
+        ],
+        "tcg_date": "2013-08-30",
+        "card_count": 9
+    },
+    "MP14": {
+        "set_names": [
+            "2014 Mega-Tin Mega Pack"
+        ],
+        "tcg_date": "2014-08-28",
+        "card_count": 247
+    },
+    "CT11": {
+        "set_names": [
+            "2014 Mega-Tins"
+        ],
+        "tcg_date": "2014-08-28",
+        "card_count": 6
+    },
+    "MP15": {
+        "set_names": [
+            "2015 Mega-Tin Mega Pack"
+        ],
+        "tcg_date": "2015-09-17",
+        "card_count": 247
+    },
+    "CT12": {
+        "set_names": [
+            "2015 Mega-Tins"
+        ],
+        "tcg_date": "2015-09-17",
+        "card_count": 6
+    },
+    "MP16": {
+        "set_names": [
+            "2016 Mega-Tin Mega Pack"
+        ],
+        "tcg_date": "2016-09-01",
+        "card_count": 239
+    },
+    "CT13": {
+        "set_names": [
+            "2016 Mega-Tins"
+        ],
+        "tcg_date": "2016-09-01",
+        "card_count": 12
+    },
+    "MP17": {
+        "set_names": [
+            "2017 Mega-Tin Mega Pack"
+        ],
+        "tcg_date": "2017-08-24",
+        "card_count": 239
+    },
+    "CT14": {
+        "set_names": [
+            "2017 Mega-Tins"
+        ],
+        "tcg_date": "2017-08-24",
+        "card_count": 8
+    },
+    "MP18": {
+        "set_names": [
+            "2018 Mega-Tin Mega Pack"
+        ],
+        "tcg_date": "2018-08-30",
+        "card_count": 233
+    },
+    "CT15": {
+        "set_names": [
+            "2018 Mega-Tins"
+        ],
+        "tcg_date": "2018-08-30",
+        "card_count": 10
+    },
+    "TN19": {
+        "set_names": [
+            "2019 Gold Sarcophagus Tin"
+        ],
+        "tcg_date": "2019-08-29",
+        "card_count": 14
+    },
+    "MP19": {
+        "set_names": [
+            "2019 Gold Sarcophagus Tin Mega Pack"
+        ],
+        "tcg_date": "2019-08-29",
+        "card_count": 270
+    },
+    "MP20": {
+        "set_names": [
+            "2020 Tin of Lost Memories",
+            "2020 Tin of Lost Memories Mega Pack"
+        ],
+        "tcg_date": "2020-08-27",
+        "card_count": 6
+    },
+    "MP21": {
+        "set_names": [
+            "2021 Tin of Ancient Battles"
+        ],
+        "tcg_date": "2021-09-30",
+        "card_count": 258
+    },
+    "MP22": {
+        "set_names": [
+            "2022 Tin of the Pharaoh's Gods"
+        ],
+        "tcg_date": "2022-09-14",
+        "card_count": 275
+    },
+    "RA01": {
+        "set_names": [
+            "25th Anniversary Rarity Collection"
+        ],
+        "tcg_date": "2023-11-02",
+        "card_count": 78
+    },
+    "TN23": {
+        "set_names": [
+            "25th Anniversary Tin: Dueling Heroes"
+        ],
+        "tcg_date": "2023-09-07",
+        "card_count": 16
+    },
+    "MP23": {
+        "set_names": [
+            "25th Anniversary Tin: Dueling Heroes Mega Pack"
+        ],
+        "tcg_date": "2023-09-07",
+        "card_count": 283
+    },
+    "KC01": {
+        "set_names": [
+            "25th Anniversary Ultimate Kaiba Set"
+        ],
+        "tcg_date": "2024-03-01",
+        "card_count": 62
+    },
+    "ABPF": {
+        "set_names": [
+            "Absolute Powerforce",
+            "Absolute Powerforce Sneak Peek Participation Card",
+            "Absolute Powerforce: Special Edition"
+        ],
+        "tcg_date": "2010-02-12",
+        "card_count": 100
+    },
+    "ABYR": {
+        "set_names": [
+            "Abyss Rising",
+            "Abyss Rising Sneak Peek Participation Card",
+            "Abyss Rising: Special Edition"
+        ],
+        "tcg_date": "2012-11-09",
+        "card_count": 100
+    },
+    "ADC1": {
+        "set_names": [
+            "Adidas collaboration card"
+        ],
+        "tcg_date": "2024-02-14",
+        "card_count": 1
+    },
+    "DEM4": {
+        "set_names": [
+            "Advanced Demo Deck Extra Pack"
+        ],
+        "tcg_date": "2018-01-06",
+        "card_count": 10
+    },
+    "AGOV": {
+        "set_names": [
+            "Age of Overlord"
+        ],
+        "tcg_date": "2023-10-19",
+        "card_count": 101
+    },
+    "AMDE": {
+        "set_names": [
+            "Amazing Defenders"
+        ],
+        "tcg_date": "2023-01-19",
+        "card_count": 60
+    },
+    "ANGU": {
+        "set_names": [
+            "Ancient Guardians"
+        ],
+        "tcg_date": "2021-04-29",
+        "card_count": 60
+    },
+    "ANPR": {
+        "set_names": [
+            "Ancient Prophecy",
+            "Ancient Prophecy Sneak Peek Participation Card",
+            "Ancient Prophecy: Special Edition"
+        ],
+        "tcg_date": "2009-09-01",
+        "card_count": 100
+    },
+    "AST": {
+        "set_names": [
+            "Ancient Sanctuary"
+        ],
+        "tcg_date": "2004-06-01",
+        "card_count": 112
+    },
+    "YAP1": {
+        "set_names": [
+            "Anniversary Pack"
+        ],
+        "tcg_date": "2008-12-08",
+        "card_count": 8
+    },
+    "AP08": {
+        "set_names": [
+            "Astral Pack Eight"
+        ],
+        "tcg_date": "2015-10-23",
+        "card_count": 27
+    },
+    "AP05": {
+        "set_names": [
+            "Astral Pack Five"
+        ],
+        "tcg_date": "2014-07-25",
+        "card_count": 26
+    },
+    "AP04": {
+        "set_names": [
+            "Astral Pack Four"
+        ],
+        "tcg_date": "2014-02-07",
+        "card_count": 26
+    },
+    "AP01": {
+        "set_names": [
+            "Astral Pack One"
+        ],
+        "tcg_date": "2012-11-23",
+        "card_count": 25
+    },
+    "AP07": {
+        "set_names": [
+            "Astral Pack Seven"
+        ],
+        "tcg_date": "2015-06-04",
+        "card_count": 27
+    },
+    "AP06": {
+        "set_names": [
+            "Astral Pack Six"
+        ],
+        "tcg_date": "2014-12-05",
+        "card_count": 28
+    },
+    "AP03": {
+        "set_names": [
+            "Astral Pack Three"
+        ],
+        "tcg_date": "2013-09-13",
+        "card_count": 26
+    },
+    "AP02": {
+        "set_names": [
+            "Astral Pack Two"
+        ],
+        "tcg_date": "2013-04-19",
+        "card_count": 25
+    },
+    "BACH": {
+        "set_names": [
+            "Battle of Chaos"
+        ],
+        "tcg_date": "2022-02-10",
+        "card_count": 102
+    },
+    "BP02": {
+        "set_names": [
+            "Battle Pack 2: War of the Giants"
+        ],
+        "tcg_date": "2013-06-28",
+        "card_count": 215
+    },
+    "BP03": {
+        "set_names": [
+            "Battle Pack 3: Monster League"
+        ],
+        "tcg_date": "2014-07-31",
+        "card_count": 237
+    },
+    "BATT": {
+        "set_names": [
+            "Battle Pack Tournament Prize Cards"
+        ],
+        "tcg_date": "2012-05-29",
+        "card_count": 20
+    },
+    "BP01": {
+        "set_names": [
+            "Battle Pack: Epic Dawn"
+        ],
+        "tcg_date": "2012-05-24",
+        "card_count": 220
+    },
+    "BLAR": {
+        "set_names": [
+            "Battles of Legend: Armageddon"
+        ],
+        "tcg_date": "2020-07-23",
+        "card_count": 94
+    },
+    "BLC1": {
+        "set_names": [
+            "Battles of Legend: Chapter 1"
+        ],
+        "tcg_date": "2024-02-22",
+        "card_count": 163
+    },
+    "BLCR": {
+        "set_names": [
+            "Battles of Legend: Crystal Revenge"
+        ],
+        "tcg_date": "2022-11-17",
+        "card_count": 105
+    },
+    "BLHR": {
+        "set_names": [
+            "Battles of Legend: Hero's Revenge"
+        ],
+        "tcg_date": "2019-07-11",
+        "card_count": 94
+    },
+    "BLLR": {
+        "set_names": [
+            "Battles of Legend: Light's Revenge"
+        ],
+        "tcg_date": "2017-07-06",
+        "card_count": 80
+    },
+    "BLMR": {
+        "set_names": [
+            "Battles of Legend: Monstrous Revenge"
+        ],
+        "tcg_date": "2023-06-22",
+        "card_count": 104
+    },
+    "BLRR": {
+        "set_names": [
+            "Battles of Legend: Relentless Revenge"
+        ],
+        "tcg_date": "2018-06-28",
+        "card_count": 105
+    },
+    "BLTR": {
+        "set_names": [
+            "Battles of Legend: Terminal Revenge"
+        ],
+        "tcg_date": "0000-00-00",
+        "card_count": 117
+    },
+    "BLVO": {
+        "set_names": [
+            "Blazing Vortex",
+            "Blazing Vortex Premiere! promotional card"
+        ],
+        "tcg_date": "2021-02-04",
+        "card_count": 101
+    },
+    "SBPR": {
+        "set_names": [
+            "Blue-Eyes Alternative White Dragon Sweepstakes",
+            "Palladium Oracle Mahad Sweepstakes",
+            "Remote Duel at Home Sweepstakes",
+            "Yu-Gi-Oh! at Home Sweepstakes"
+        ],
+        "tcg_date": "2021-12-01",
+        "card_count": 1
+    },
+    "BPT": {
+        "set_names": [
+            "Booster Pack Collectors Tins 2002",
+            "Collectible Tins 2003"
+        ],
+        "tcg_date": "2002-10-04",
+        "card_count": 6
+    },
+    "BOSH": {
+        "set_names": [
+            "Breakers of Shadow",
+            "Breakers of Shadow Sneak Peek Participation Card",
+            "Breakers of Shadow: Special Edition"
+        ],
+        "tcg_date": "2016-01-14",
+        "card_count": 100
+    },
+    "BROL": {
+        "set_names": [
+            "Brothers of Legend"
+        ],
+        "tcg_date": "2021-12-02",
+        "card_count": 95
+    },
+    "BODE": {
+        "set_names": [
+            "Burst of Destiny"
+        ],
+        "tcg_date": "2021-11-04",
+        "card_count": 101
+    },
+    "CP08": {
+        "set_names": [
+            "Champion Pack: Game Eight"
+        ],
+        "tcg_date": "2009-01-05",
+        "card_count": 20
+    },
+    "CP05": {
+        "set_names": [
+            "Champion Pack: Game Five"
+        ],
+        "tcg_date": "2008-01-08",
+        "card_count": 20
+    },
+    "CP04": {
+        "set_names": [
+            "Champion Pack: Game Four"
+        ],
+        "tcg_date": "2007-09-06",
+        "card_count": 20
+    },
+    "CP01": {
+        "set_names": [
+            "Champion Pack: Game One"
+        ],
+        "tcg_date": "2006-11-11",
+        "card_count": 20
+    },
+    "CP07": {
+        "set_names": [
+            "Champion Pack: Game Seven"
+        ],
+        "tcg_date": "2008-09-01",
+        "card_count": 20
+    },
+    "CP06": {
+        "set_names": [
+            "Champion Pack: Game Six"
+        ],
+        "tcg_date": "2008-05-12",
+        "card_count": 20
+    },
+    "CP03": {
+        "set_names": [
+            "Champion Pack: Game Three"
+        ],
+        "tcg_date": "2007-05-15",
+        "card_count": 20
+    },
+    "CP02": {
+        "set_names": [
+            "Champion Pack: Game Two"
+        ],
+        "tcg_date": "2007-02-06",
+        "card_count": 20
+    },
+    "CHIM": {
+        "set_names": [
+            "Chaos Impact",
+            "Chaos Impact Sneak Peek Participation Card",
+            "Chaos Impact Special Edition"
+        ],
+        "tcg_date": "2019-10-24",
+        "card_count": 100
+    },
+    "CIBR": {
+        "set_names": [
+            "Circuit Break",
+            "Circuit Break Sneak Peek Participation Card",
+            "Circuit Break Special Edition"
+        ],
+        "tcg_date": "2017-10-19",
+        "card_count": 100
+    },
+    "CORE": {
+        "set_names": [
+            "Clash of Rebellions",
+            "Clash of Rebellions Sneak Peek Participation Card",
+            "Clash of Rebellions: Special Edition"
+        ],
+        "tcg_date": "2015-08-06",
+        "card_count": 100
+    },
+    "COTD": {
+        "set_names": [
+            "Code of the Duelist",
+            "Code of the Duelist Sneak Peek Participation Card",
+            "Code of the Duelist Special Edition"
+        ],
+        "tcg_date": "2017-08-03",
+        "card_count": 100
+    },
+    "CT1": {
+        "set_names": [
+            "Collectible Tins 2004"
+        ],
+        "tcg_date": "2004-09-01",
+        "card_count": 6
+    },
+    "CT2": {
+        "set_names": [
+            "Collectible Tins 2005"
+        ],
+        "tcg_date": "2005-09-01",
+        "card_count": 6
+    },
+    "CT03": {
+        "set_names": [
+            "Collectible Tins 2006 Wave 1",
+            "Collectible Tins 2006 Wave 2"
+        ],
+        "tcg_date": "2006-09-11",
+        "card_count": 3
+    },
+    "CT04": {
+        "set_names": [
+            "Collectible Tins 2007 Wave 1",
+            "Collectible Tins 2007 Wave 2"
+        ],
+        "tcg_date": "2007-08-29",
+        "card_count": 3
+    },
+    "CT05": {
+        "set_names": [
+            "Collectible Tins 2008 Wave 1",
+            "Collectible Tins 2008 Wave 2",
+            "Collectible Tins Exclusive 2008"
+        ],
+        "tcg_date": "2008-08-18",
+        "card_count": 2
+    },
+    "CT06": {
+        "set_names": [
+            "Collectible Tins 2009 Wave 1",
+            "Collectible Tins 2009 Wave 2",
+            "Collectible Tins Exclusive 2009"
+        ],
+        "tcg_date": "2009-08-18",
+        "card_count": 2
+    },
+    "CT07": {
+        "set_names": [
+            "Collectible Tins 2010 Wave 1",
+            "Collectible Tins 2010 Wave 2"
+        ],
+        "tcg_date": "2010-08-31",
+        "card_count": 15
+    },
+    "CT08": {
+        "set_names": [
+            "Collectible Tins 2011 Wave 1",
+            "Collectible Tins 2011 Wave 2"
+        ],
+        "tcg_date": "2011-08-25",
+        "card_count": 9
+    },
+    "CT09": {
+        "set_names": [
+            "Collectible Tins 2012 Wave 1",
+            "Collectible Tins 2012 Wave 2",
+            "Collectible Tins 2012 Wave 2.5"
+        ],
+        "tcg_date": "2012-08-10",
+        "card_count": 9
+    },
+    "CBLZ": {
+        "set_names": [
+            "Cosmo Blazer",
+            "Cosmo Blazer Sneak Peek Participation Card",
+            "Cosmo Blazer: Special Edition"
+        ],
+        "tcg_date": "2013-01-25",
+        "card_count": 100
+    },
+    "CRMS": {
+        "set_names": [
+            "Crimson Crisis",
+            "Crimson Crisis Sneak Peek Participation Card",
+            "Crimson Crisis: Special Edition"
+        ],
+        "tcg_date": "2009-03-03",
+        "card_count": 100
+    },
+    "CROS": {
+        "set_names": [
+            "Crossed Souls",
+            "Crossed Souls Sneak Peek Participation Card",
+            "Crossed Souls: Advance Edition"
+        ],
+        "tcg_date": "2015-05-14",
+        "card_count": 100
+    },
+    "CSOC": {
+        "set_names": [
+            "Crossroads of Chaos",
+            "Crossroads of Chaos Sneak Peek Participation Card",
+            "Crossroads of Chaos: Special Edition"
+        ],
+        "tcg_date": "2008-11-18",
+        "card_count": 100
+    },
+    "SDCR": {
+        "set_names": [
+            "Cyber Dragon Revolution Structure Deck"
+        ],
+        "tcg_date": "2014-02-06",
+        "card_count": 38
+    },
+    "CDIP": {
+        "set_names": [
+            "Cyberdark Impact"
+        ],
+        "tcg_date": "2006-11-15",
+        "card_count": 60
+    },
+    "SP02": {
+        "set_names": [
+            "Cyberdark Impact Sneak Peek Participation Card",
+            "Power of the Duelist Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2006-11-04",
+        "card_count": 1
+    },
+    "CYHO": {
+        "set_names": [
+            "Cybernetic Horizon",
+            "Cybernetic Horizon Sneak Peek Participation Card",
+            "Cybernetic Horizon Special Edition"
+        ],
+        "tcg_date": "2018-07-26",
+        "card_count": 100
+    },
+    "CRV": {
+        "set_names": [
+            "Cybernetic Revolution"
+        ],
+        "tcg_date": "2005-08-17",
+        "card_count": 60
+    },
+    "SP1": {
+        "set_names": [
+            "Cybernetic Revolution Sneak Peek Participation Card",
+            "Elemental Energy Sneak Peek Participation Card",
+            "Flaming Eternity Sneak Peek Participation Card",
+            "The Lost Millennium Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2005-08-06",
+        "card_count": 1
+    },
+    "CYAC": {
+        "set_names": [
+            "Cyberstorm Access"
+        ],
+        "tcg_date": "2023-05-04",
+        "card_count": 101
+    },
+    "DB1": {
+        "set_names": [
+            "Dark Beginning 1"
+        ],
+        "tcg_date": "2004-10-12",
+        "card_count": 262
+    },
+    "DB2": {
+        "set_names": [
+            "Dark Beginning 2"
+        ],
+        "tcg_date": "2005-07-27",
+        "card_count": 264
+    },
+    "DCR": {
+        "set_names": [
+            "Dark Crisis"
+        ],
+        "tcg_date": "2003-12-01",
+        "card_count": 212
+    },
+    "DLG1": {
+        "set_names": [
+            "Dark Legends"
+        ],
+        "tcg_date": "2008-11-21",
+        "card_count": 113
+    },
+    "DANE": {
+        "set_names": [
+            "Dark Neostorm",
+            "Dark Neostorm Sneak Peek Participation Card",
+            "Dark Neostorm Special Edition"
+        ],
+        "tcg_date": "2019-05-02",
+        "card_count": 100
+    },
+    "DR1": {
+        "set_names": [
+            "Dark Revelation Volume 1"
+        ],
+        "tcg_date": "2005-03-19",
+        "card_count": 267
+    },
+    "DR2": {
+        "set_names": [
+            "Dark Revelation Volume 2"
+        ],
+        "tcg_date": "2005-10-20",
+        "card_count": 228
+    },
+    "DR3": {
+        "set_names": [
+            "Dark Revelation Volume 3"
+        ],
+        "tcg_date": "2006-11-25",
+        "card_count": 240
+    },
+    "DR04": {
+        "set_names": [
+            "Dark Revelation Volume 4"
+        ],
+        "tcg_date": "2007-11-14",
+        "card_count": 245
+    },
+    "DASA": {
+        "set_names": [
+            "Dark Saviors"
+        ],
+        "tcg_date": "2018-05-24",
+        "card_count": 60
+    },
+    "DABL": {
+        "set_names": [
+            "Darkwing Blast"
+        ],
+        "tcg_date": "2022-10-20",
+        "card_count": 101
+    },
+    "DAMA": {
+        "set_names": [
+            "Dawn of Majesty",
+            "Dawn of Majesty Premiere! promotional card"
+        ],
+        "tcg_date": "2021-08-12",
+        "card_count": 101
+    },
+    "DEM2": {
+        "set_names": [
+            "Demo Deck 2015"
+        ],
+        "tcg_date": "2015-03-30",
+        "card_count": 20
+    },
+    "DEM3": {
+        "set_names": [
+            "Demo Deck 2016"
+        ],
+        "tcg_date": "2016-01-14",
+        "card_count": 20
+    },
+    "DEM1": {
+        "set_names": [
+            "Demo Pack"
+        ],
+        "tcg_date": "2011-02-12",
+        "card_count": 20
+    },
+    "DESO": {
+        "set_names": [
+            "Destiny Soldiers"
+        ],
+        "tcg_date": "2016-11-17",
+        "card_count": 60
+    },
+    "DIFO": {
+        "set_names": [
+            "Dimension Force"
+        ],
+        "tcg_date": "2022-05-19",
+        "card_count": 101
+    },
+    "DOCS": {
+        "set_names": [
+            "Dimension of Chaos",
+            "Dimension of Chaos Sneak Peek Participation Card",
+            "Dimension of Chaos: Special Edition"
+        ],
+        "tcg_date": "2015-11-05",
+        "card_count": 100
+    },
+    "SR04": {
+        "set_names": [
+            "Dinosmasher's Fury Structure Deck"
+        ],
+        "tcg_date": "2017-04-13",
+        "card_count": 39
+    },
+    "SDDC": {
+        "set_names": [
+            "Dragons Collide Structure Deck"
+        ],
+        "tcg_date": "2012-02-03",
+        "card_count": 40
+    },
+    "DRLG": {
+        "set_names": [
+            "Dragons of Legend"
+        ],
+        "tcg_date": "2014-04-25",
+        "card_count": 51
+    },
+    "DRL2": {
+        "set_names": [
+            "Dragons of Legend 2"
+        ],
+        "tcg_date": "2015-07-16",
+        "card_count": 45
+    },
+    "DLCS": {
+        "set_names": [
+            "Dragons of Legend: The Complete Series"
+        ],
+        "tcg_date": "2020-09-10",
+        "card_count": 149
+    },
+    "DRL3": {
+        "set_names": [
+            "Dragons of Legend: Unleashed"
+        ],
+        "tcg_date": "2016-08-18",
+        "card_count": 73
+    },
+    "SDDL": {
+        "set_names": [
+            "Dragunity Legion Structure Deck"
+        ],
+        "tcg_date": "2011-03-04",
+        "card_count": 39
+    },
+    "DUDE": {
+        "set_names": [
+            "Duel Devastator"
+        ],
+        "tcg_date": "2019-10-10",
+        "card_count": 56
+    },
+    "DDY1": {
+        "set_names": [
+            "Duel Disk - Yusei Version"
+        ],
+        "tcg_date": "2009-11-01",
+        "card_count": 1
+    },
+    "DMG": {
+        "set_names": [
+            "Duel Master's Guide promotional cards"
+        ],
+        "tcg_date": "2003-10-28",
+        "card_count": 1
+    },
+    "DUOV": {
+        "set_names": [
+            "Duel Overload"
+        ],
+        "tcg_date": "2020-03-19",
+        "card_count": 100
+    },
+    "DUPO": {
+        "set_names": [
+            "Duel Power"
+        ],
+        "tcg_date": "2019-04-03",
+        "card_count": 106
+    },
+    "DTP1": {
+        "set_names": [
+            "Duel Terminal - Preview Wave 1",
+            "Duel Terminal - Preview Wave 2"
+        ],
+        "tcg_date": "2008-08-04",
+        "card_count": 20
+    },
+    "DT01": {
+        "set_names": [
+            "Duel Terminal 1"
+        ],
+        "tcg_date": "2010-01-29",
+        "card_count": 100
+    },
+    "DT02": {
+        "set_names": [
+            "Duel Terminal 2"
+        ],
+        "tcg_date": "2010-05-25",
+        "card_count": 100
+    },
+    "DT03": {
+        "set_names": [
+            "Duel Terminal 3"
+        ],
+        "tcg_date": "2010-09-25",
+        "card_count": 100
+    },
+    "DT04": {
+        "set_names": [
+            "Duel Terminal 4"
+        ],
+        "tcg_date": "2011-01-25",
+        "card_count": 100
+    },
+    "DT05": {
+        "set_names": [
+            "Duel Terminal 5",
+            "Duel Terminal 5a",
+            "Duel Terminal 5b"
+        ],
+        "tcg_date": "2011-05-29",
+        "card_count": 2
+    },
+    "DT06": {
+        "set_names": [
+            "Duel Terminal 6",
+            "Duel Terminal 6a",
+            "Duel Terminal 6b"
+        ],
+        "tcg_date": "2012-02-03",
+        "card_count": 2
+    },
+    "DT07": {
+        "set_names": [
+            "Duel Terminal 7",
+            "Duel Terminal 7a",
+            "Duel Terminal 7b"
+        ],
+        "tcg_date": "2012-09-28",
+        "card_count": 1
+    },
+    "DUEA": {
+        "set_names": [
+            "Duelist Alliance",
+            "Duelist Alliance Sneak Peek Participation Card",
+            "Duelist Alliance: Deluxe Edition"
+        ],
+        "tcg_date": "2014-08-14",
+        "card_count": 100
+    },
+    "DL13": {
+        "set_names": [
+            "Duelist League 13 participation cards"
+        ],
+        "tcg_date": "2011-12-01",
+        "card_count": 20
+    },
+    "DL14": {
+        "set_names": [
+            "Duelist League 14 participation cards"
+        ],
+        "tcg_date": "2012-06-01",
+        "card_count": 20
+    },
+    "DL15": {
+        "set_names": [
+            "Duelist League 15 participation cards"
+        ],
+        "tcg_date": "2012-12-15",
+        "card_count": 20
+    },
+    "DL16": {
+        "set_names": [
+            "Duelist League 16 participation cards"
+        ],
+        "tcg_date": "2013-07-01",
+        "card_count": 20
+    },
+    "DL17": {
+        "set_names": [
+            "Duelist League 17 participation cards"
+        ],
+        "tcg_date": "2013-12-13",
+        "card_count": 20
+    },
+    "DL18": {
+        "set_names": [
+            "Duelist League 18 participation cards"
+        ],
+        "tcg_date": "2014-06-27",
+        "card_count": 20
+    },
+    "DL11": {
+        "set_names": [
+            "Duelist League 2 participation cards"
+        ],
+        "tcg_date": "2010-12-01",
+        "card_count": 21
+    },
+    "DL09": {
+        "set_names": [
+            "Duelist League 2010 participation cards"
+        ],
+        "tcg_date": "2009-08-15",
+        "card_count": 20
+    },
+    "DL12": {
+        "set_names": [
+            "Duelist League 3 participation cards"
+        ],
+        "tcg_date": "2011-06-01",
+        "card_count": 19
+    },
+    "DLDI": {
+        "set_names": [
+            "Duelist League Demo 2010"
+        ],
+        "tcg_date": "2009-08-01",
+        "card_count": 5
+    },
+    "DL1": {
+        "set_names": [
+            "Duelist League Series 1 participation cards"
+        ],
+        "tcg_date": "2003-01-01",
+        "card_count": 4
+    },
+    "DL10": {
+        "set_names": [
+            "Duelist League Series 10 participation card"
+        ],
+        "tcg_date": "2006-04-28",
+        "card_count": 1
+    },
+    "DL2": {
+        "set_names": [
+            "Duelist League Series 2 participation cards"
+        ],
+        "tcg_date": "2006-04-28",
+        "card_count": 4
+    },
+    "DL3": {
+        "set_names": [
+            "Duelist League Series 3 participation card"
+        ],
+        "tcg_date": "2006-04-28",
+        "card_count": 1
+    },
+    "DL4": {
+        "set_names": [
+            "Duelist League Series 4 participation card"
+        ],
+        "tcg_date": "2006-04-28",
+        "card_count": 1
+    },
+    "DL5": {
+        "set_names": [
+            "Duelist League Series 5 participation card"
+        ],
+        "tcg_date": "2006-04-28",
+        "card_count": 1
+    },
+    "DL6": {
+        "set_names": [
+            "Duelist League Series 6 participation card"
+        ],
+        "tcg_date": "2004-12-01",
+        "card_count": 1
+    },
+    "DL7": {
+        "set_names": [
+            "Duelist League Series 7 participation card"
+        ],
+        "tcg_date": "2005-04-01",
+        "card_count": 1
+    },
+    "DL8": {
+        "set_names": [
+            "Duelist League Series 8 participation card"
+        ],
+        "tcg_date": "2005-06-30",
+        "card_count": 1
+    },
+    "DL9": {
+        "set_names": [
+            "Duelist League Series 9 participation card"
+        ],
+        "tcg_date": "2006-01-03",
+        "card_count": 1
+    },
+    "DUNE": {
+        "set_names": [
+            "Duelist Nexus"
+        ],
+        "tcg_date": "2023-07-27",
+        "card_count": 99
+    },
+    "DPCT": {
+        "set_names": [
+            "Duelist Pack Collection Tin 2008",
+            "Duelist Pack Collection Tin 2010",
+            "Duelist Pack Collection Tin: Jaden Yuki"
+        ],
+        "tcg_date": "2008-03-11",
+        "card_count": 1
+    },
+    "RGBT": {
+        "set_names": [
+            "Duelist Pack Collection Tin 2009",
+            "Raging Battle",
+            "Raging Battle Sneak Peek Participation Card",
+            "Raging Battle: Special Edition"
+        ],
+        "tcg_date": "2009-03-10",
+        "card_count": 7
+    },
+    "DPC5": {
+        "set_names": [
+            "Duelist Pack Collection Tin 2011"
+        ],
+        "tcg_date": "2011-03-31",
+        "card_count": 4
+    },
+    "DP05": {
+        "set_names": [
+            "Duelist Pack: Aster Phoenix"
+        ],
+        "tcg_date": "2007-02-07",
+        "card_count": 30
+    },
+    "DPBC": {
+        "set_names": [
+            "Duelist Pack: Battle City"
+        ],
+        "tcg_date": "2015-06-19",
+        "card_count": 47
+    },
+    "DP2": {
+        "set_names": [
+            "Duelist Pack: Chazz Princeton"
+        ],
+        "tcg_date": "2006-02-08",
+        "card_count": 30
+    },
+    "DP11": {
+        "set_names": [
+            "Duelist Pack: Crow"
+        ],
+        "tcg_date": "2011-05-27",
+        "card_count": 30
+    },
+    "DPDG": {
+        "set_names": [
+            "Duelist Pack: Dimensional Guardians"
+        ],
+        "tcg_date": "2017-05-25",
+        "card_count": 45
+    },
+    "DP1": {
+        "set_names": [
+            "Duelist Pack: Jaden Yuki"
+        ],
+        "tcg_date": "2006-02-08",
+        "card_count": 30
+    },
+    "DP03": {
+        "set_names": [
+            "Duelist Pack: Jaden Yuki 2"
+        ],
+        "tcg_date": "2007-02-07",
+        "card_count": 30
+    },
+    "DP06": {
+        "set_names": [
+            "Duelist Pack: Jaden Yuki 3"
+        ],
+        "tcg_date": "2008-01-26",
+        "card_count": 25
+    },
+    "DP07": {
+        "set_names": [
+            "Duelist Pack: Jesse Anderson"
+        ],
+        "tcg_date": "2008-01-26",
+        "card_count": 25
+    },
+    "DPKB": {
+        "set_names": [
+            "Duelist Pack: Kaiba"
+        ],
+        "tcg_date": "2010-04-16",
+        "card_count": 40
+    },
+    "DPRP": {
+        "set_names": [
+            "Duelist Pack: Rivals of the Pharaoh"
+        ],
+        "tcg_date": "2016-09-15",
+        "card_count": 46
+    },
+    "DPK": {
+        "set_names": [
+            "Duelist Pack: Special Edition"
+        ],
+        "tcg_date": "2006-03-09",
+        "card_count": 3
+    },
+    "DPYG": {
+        "set_names": [
+            "Duelist Pack: Yugi"
+        ],
+        "tcg_date": "2009-07-07",
+        "card_count": 30
+    },
+    "DP08": {
+        "set_names": [
+            "Duelist Pack: Yusei"
+        ],
+        "tcg_date": "2009-02-24",
+        "card_count": 30
+    },
+    "DP09": {
+        "set_names": [
+            "Duelist Pack: Yusei 2"
+        ],
+        "tcg_date": "2010-01-15",
+        "card_count": 30
+    },
+    "DP10": {
+        "set_names": [
+            "Duelist Pack: Yusei 3"
+        ],
+        "tcg_date": "2011-01-21",
+        "card_count": 30
+    },
+    "DP04": {
+        "set_names": [
+            "Duelist Pack: Zane Truesdale"
+        ],
+        "tcg_date": "2007-03-07",
+        "card_count": 30
+    },
+    "DREV": {
+        "set_names": [
+            "Duelist Revolution",
+            "Duelist Revolution Sneak Peek Participation Card",
+            "Duelist Revolution: Special Edition"
+        ],
+        "tcg_date": "2010-08-17",
+        "card_count": 100
+    },
+    "DUSA": {
+        "set_names": [
+            "Duelist Saga"
+        ],
+        "tcg_date": "2017-03-30",
+        "card_count": 100
+    },
+    "EGO1": {
+        "set_names": [
+            "Egyptian God Deck: Obelisk the Tormentor"
+        ],
+        "tcg_date": "2021-06-17",
+        "card_count": 35
+    },
+    "EGS1": {
+        "set_names": [
+            "Egyptian God Deck: Slifer the Sky Dragon"
+        ],
+        "tcg_date": "2021-06-17",
+        "card_count": 38
+    },
+    "EEN": {
+        "set_names": [
+            "Elemental Energy",
+            "Elemental Energy: Special Edition"
+        ],
+        "tcg_date": "2005-11-16",
+        "card_count": 60
+    },
+    "SR01": {
+        "set_names": [
+            "Emperor of Darkness Structure Deck"
+        ],
+        "tcg_date": "2016-01-28",
+        "card_count": 41
+    },
+    "EOJ": {
+        "set_names": [
+            "Enemy of Justice"
+        ],
+        "tcg_date": "2006-05-17",
+        "card_count": 60
+    },
+    "SP2": {
+        "set_names": [
+            "Enemy of Justice Sneak Peek Participation Card",
+            "Shadow of Infinity Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2006-05-13",
+        "card_count": 1
+    },
+    "ETCO": {
+        "set_names": [
+            "Eternity Code",
+            "Eternity Code Premiere! promotional card"
+        ],
+        "tcg_date": "2020-04-30",
+        "card_count": 101
+    },
+    "EVSD": {
+        "set_names": [
+            "Event Pack Speed Duel",
+            "Speed Duel: Scars of Battle Launch Event participation card"
+        ],
+        "tcg_date": "2019-08-01",
+        "card_count": 6
+    },
+    "EP1": {
+        "set_names": [
+            "Exclusive Pack",
+            "Kids WB Duel of Destiny promotional card"
+        ],
+        "tcg_date": "2004-07-25",
+        "card_count": 8
+    },
+    "EXFO": {
+        "set_names": [
+            "Extreme Force",
+            "Extreme Force Sneak Peek Participation Card",
+            "Extreme Force Special Edition"
+        ],
+        "tcg_date": "2018-02-01",
+        "card_count": 100
+    },
+    "EXVC": {
+        "set_names": [
+            "Extreme Victory",
+            "Extreme Victory Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2011-05-06",
+        "card_count": 100
+    },
+    "FFSE": {
+        "set_names": [
+            "Fire Fists: Special Edition"
+        ],
+        "tcg_date": "2014-04-04",
+        "card_count": 1
+    },
+    "FIGA": {
+        "set_names": [
+            "Fists of the Gadgets"
+        ],
+        "tcg_date": "2019-08-22",
+        "card_count": 60
+    },
+    "FLOD": {
+        "set_names": [
+            "Flames of Destruction",
+            "Flames of Destruction Sneak Peek Participation Card",
+            "Flames of Destruction Special Edition"
+        ],
+        "tcg_date": "2018-05-03",
+        "card_count": 100
+    },
+    "FET": {
+        "set_names": [
+            "Flaming Eternity"
+        ],
+        "tcg_date": "2005-03-01",
+        "card_count": 60
+    },
+    "FL1": {
+        "set_names": [
+            "Forbidden Legacy"
+        ],
+        "tcg_date": "2005-10-01",
+        "card_count": 3
+    },
+    "FOTB": {
+        "set_names": [
+            "Force of the Breaker",
+            "Force of the Breaker Sneak Peek Participation Card",
+            "Force of the Breaker: Special Edition"
+        ],
+        "tcg_date": "2007-05-16",
+        "card_count": 69
+    },
+    "FUEN": {
+        "set_names": [
+            "Fusion Enforcers"
+        ],
+        "tcg_date": "2017-02-23",
+        "card_count": 60
+    },
+    "GAOV": {
+        "set_names": [
+            "Galactic Overlord",
+            "Galactic Overlord Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2012-05-08",
+        "card_count": 100
+    },
+    "SDGU": {
+        "set_names": [
+            "Gates of the Underworld Structure Deck"
+        ],
+        "tcg_date": "2011-10-13",
+        "card_count": 39
+    },
+    "SDGR": {
+        "set_names": [
+            "Geargia Rampage Structure Deck"
+        ],
+        "tcg_date": "2014-10-16",
+        "card_count": 35
+    },
+    "GENF": {
+        "set_names": [
+            "Generation Force",
+            "Generation Force Sneak Peek Participation Card",
+            "Generation Force: Special Edition"
+        ],
+        "tcg_date": "2011-08-16",
+        "card_count": 100
+    },
+    "GEIM": {
+        "set_names": [
+            "Genesis Impact"
+        ],
+        "tcg_date": "2020-12-03",
+        "card_count": 60
+    },
+    "GFTP": {
+        "set_names": [
+            "Ghosts From the Past"
+        ],
+        "tcg_date": "2021-04-15",
+        "card_count": 132
+    },
+    "GFP2": {
+        "set_names": [
+            "Ghosts From the Past: The 2nd Haunting"
+        ],
+        "tcg_date": "2022-05-05",
+        "card_count": 187
+    },
+    "GLAS": {
+        "set_names": [
+            "Gladiator's Assault",
+            "Gladiator's Assault Sneak Peek Participation Card",
+            "Gladiator's Assault: Special Edition"
+        ],
+        "tcg_date": "2007-11-14",
+        "card_count": 95
+    },
+    "GLD1": {
+        "set_names": [
+            "Gold Series"
+        ],
+        "tcg_date": "2008-04-02",
+        "card_count": 45
+    },
+    "GLD2": {
+        "set_names": [
+            "Gold Series 2009"
+        ],
+        "tcg_date": "2009-04-21",
+        "card_count": 50
+    },
+    "GLD3": {
+        "set_names": [
+            "Gold Series 3"
+        ],
+        "tcg_date": "2010-06-18",
+        "card_count": 50
+    },
+    "GLD4": {
+        "set_names": [
+            "Gold Series 4: Pyramids Edition"
+        ],
+        "tcg_date": "2011-06-24",
+        "card_count": 50
+    },
+    "GLD5": {
+        "set_names": [
+            "Gold Series: Haunted Mine"
+        ],
+        "tcg_date": "2012-06-07",
+        "card_count": 55
+    },
+    "GXNG": {
+        "set_names": [
+            "GX Next Generation"
+        ],
+        "tcg_date": "2007-11-03",
+        "card_count": 1
+    },
+    "SDHS": {
+        "set_names": [
+            "HERO Strike Structure Deck"
+        ],
+        "tcg_date": "2015-01-29",
+        "card_count": 45
+    },
+    "HA01": {
+        "set_names": [
+            "Hidden Arsenal"
+        ],
+        "tcg_date": "2009-11-05",
+        "card_count": 30
+    },
+    "HA02": {
+        "set_names": [
+            "Hidden Arsenal 2"
+        ],
+        "tcg_date": "2010-07-15",
+        "card_count": 60
+    },
+    "HA03": {
+        "set_names": [
+            "Hidden Arsenal 3"
+        ],
+        "tcg_date": "2010-12-02",
+        "card_count": 60
+    },
+    "HA04": {
+        "set_names": [
+            "Hidden Arsenal 4: Trishula's Triumph"
+        ],
+        "tcg_date": "2011-04-15",
+        "card_count": 60
+    },
+    "HA05": {
+        "set_names": [
+            "Hidden Arsenal 5: Steelswarm Invasion"
+        ],
+        "tcg_date": "2011-12-01",
+        "card_count": 60
+    },
+    "H5SE": {
+        "set_names": [
+            "Hidden Arsenal 5: Steelswarm Invasion: Special Edition"
+        ],
+        "tcg_date": "2012-03-30",
+        "card_count": 2
+    },
+    "HA06": {
+        "set_names": [
+            "Hidden Arsenal 6: Omega Xyz"
+        ],
+        "tcg_date": "2012-07-24",
+        "card_count": 60
+    },
+    "HA07": {
+        "set_names": [
+            "Hidden Arsenal 7: Knight of Stars"
+        ],
+        "tcg_date": "2013-04-26",
+        "card_count": 70
+    },
+    "HAC1": {
+        "set_names": [
+            "Hidden Arsenal: Chapter 1"
+        ],
+        "tcg_date": "2022-02-24",
+        "card_count": 177
+    },
+    "HASE": {
+        "set_names": [
+            "Hidden Arsenal: Special Edition"
+        ],
+        "tcg_date": "2011-07-22",
+        "card_count": 2
+    },
+    "HISU": {
+        "set_names": [
+            "Hidden Summoners"
+        ],
+        "tcg_date": "2018-11-15",
+        "card_count": 60
+    },
+    "HSRD": {
+        "set_names": [
+            "High-Speed Riders"
+        ],
+        "tcg_date": "2015-10-01",
+        "card_count": 60
+    },
+    "HL1": {
+        "set_names": [
+            "Hobby League 1 participation cards A",
+            "Hobby League 1 participation cards B",
+            "Hobby League 1 participation cards C"
+        ],
+        "tcg_date": "2004-10-01",
+        "card_count": 2
+    },
+    "HL2": {
+        "set_names": [
+            "Hobby League 2 participation card A",
+            "Hobby League 2 participation card B",
+            "Hobby League 2 participation card C",
+            "Hobby League 2 participation card D",
+            "Hobby League 2 participation card E",
+            "Hobby League 2 participation card F"
+        ],
+        "tcg_date": "2006-01-01",
+        "card_count": 1
+    },
+    "HL03": {
+        "set_names": [
+            "Hobby League 3 participation card A",
+            "Hobby League 3 participation card B",
+            "Hobby League 3 participation card C",
+            "Hobby League 3 participation card D",
+            "Hobby League 3 participation card E",
+            "Hobby League 3 participation card F",
+            "Hobby League 3 participation card G"
+        ],
+        "tcg_date": "2006-01-01",
+        "card_count": 1
+    },
+    "HL04": {
+        "set_names": [
+            "Hobby League 4 participation card A",
+            "Hobby League 4 participation card B",
+            "Hobby League 4 participation card C",
+            "Hobby League 4 participation card D",
+            "Hobby League 4 participation card E",
+            "Hobby League 4 participation card F"
+        ],
+        "tcg_date": "2007-01-01",
+        "card_count": 1
+    },
+    "HL05": {
+        "set_names": [
+            "Hobby League 5 participation card A",
+            "Hobby League 5 participation card B",
+            "Hobby League 5 participation card C",
+            "Hobby League 5 participation card D",
+            "Hobby League 5 participation card E",
+            "Hobby League 5 participation card F"
+        ],
+        "tcg_date": "2007-01-01",
+        "card_count": 1
+    },
+    "HL06": {
+        "set_names": [
+            "Hobby League 6 participation card A",
+            "Hobby League 6 participation card B",
+            "Hobby League 6 participation card C",
+            "Hobby League 6 participation card D",
+            "Hobby League 6 participation card E",
+            "Hobby League 6 participation card F"
+        ],
+        "tcg_date": "2008-01-21",
+        "card_count": 1
+    },
+    "HL07": {
+        "set_names": [
+            "Hobby League 7 participation card A",
+            "Hobby League 7 participation card B",
+            "Hobby League 7 participation card C",
+            "Hobby League 7 participation card D",
+            "Hobby League 7 participation card E",
+            "Hobby League 7 participation card F"
+        ],
+        "tcg_date": "2008-01-01",
+        "card_count": 1
+    },
+    "IGAS": {
+        "set_names": [
+            "Ignition Assault",
+            "Ignition Assault Sneak Peek Participation Card",
+            "Ignition Assault Special Edition"
+        ],
+        "tcg_date": "2020-01-30",
+        "card_count": 100
+    },
+    "IOC": {
+        "set_names": [
+            "Invasion of Chaos",
+            "Invasion of Chaos: Special Edition"
+        ],
+        "tcg_date": "2004-03-01",
+        "card_count": 224
+    },
+    "INOV": {
+        "set_names": [
+            "Invasion: Vengeance",
+            "Invasion: Vengeance Sneak Peek Participation Card",
+            "Invasion: Vengeance: Special Edition"
+        ],
+        "tcg_date": "2016-11-03",
+        "card_count": 100
+    },
+    "JOTL": {
+        "set_names": [
+            "Judgment of the Light",
+            "Judgment of the Light Sneak Peek Participation Card",
+            "Judgment of the Light: Deluxe Edition"
+        ],
+        "tcg_date": "2013-08-08",
+        "card_count": 100
+    },
+    "KACB": {
+        "set_names": [
+            "Kaiba's Collector Box",
+            "Yugi & Kaiba Collector Box"
+        ],
+        "tcg_date": "2017-11-17",
+        "card_count": 1
+    },
+    "2021": {
+        "set_names": [
+            "KC Grand Tournament 2021 prize card"
+        ],
+        "tcg_date": "2021-08-28",
+        "card_count": 1
+    },
+    "2020": {
+        "set_names": [
+            "KC Grand Tournament prize card"
+        ],
+        "tcg_date": "2020-08-29",
+        "card_count": 1
+    },
+    "KICO": {
+        "set_names": [
+            "King's Court"
+        ],
+        "tcg_date": "2021-07-08",
+        "card_count": 65
+    },
+    "LON": {
+        "set_names": [
+            "Labyrinth of Nightmare"
+        ],
+        "tcg_date": "2003-03-01",
+        "card_count": 315
+    },
+    "LOD": {
+        "set_names": [
+            "Legacy of Darkness"
+        ],
+        "tcg_date": "2003-06-06",
+        "card_count": 202
+    },
+    "LEDE": {
+        "set_names": [
+            "Legacy of Destruction"
+        ],
+        "tcg_date": "2024-04-25",
+        "card_count": 86
+    },
+    "LVAL": {
+        "set_names": [
+            "Legacy of the Valiant",
+            "Legacy of the Valiant Sneak Peek Participation Card",
+            "Legacy of the Valiant: Deluxe Edition"
+        ],
+        "tcg_date": "2014-01-24",
+        "card_count": 100
+    },
+    "LOB": {
+        "set_names": [
+            "Legend of Blue Eyes White Dragon"
+        ],
+        "tcg_date": "2002-03-08",
+        "card_count": 355
+    },
+    "LC01": {
+        "set_names": [
+            "Legendary Collection",
+            "Legendary Collection: 25th Anniversary Edition"
+        ],
+        "tcg_date": "2010-10-01",
+        "card_count": 3
+    },
+    "LC02": {
+        "set_names": [
+            "Legendary Collection 2: The Duel Academy Years"
+        ],
+        "tcg_date": "2011-10-04",
+        "card_count": 13
+    },
+    "LCGX": {
+        "set_names": [
+            "Legendary Collection 2: The Duel Academy Years Mega Pack"
+        ],
+        "tcg_date": "2011-10-04",
+        "card_count": 266
+    },
+    "LC03": {
+        "set_names": [
+            "Legendary Collection 3: Yugi's World"
+        ],
+        "tcg_date": "2012-09-27",
+        "card_count": 4
+    },
+    "LCYW": {
+        "set_names": [
+            "Legendary Collection 3: Yugi's World Mega Pack"
+        ],
+        "tcg_date": "2012-09-29",
+        "card_count": 306
+    },
+    "LC04": {
+        "set_names": [
+            "Legendary Collection 4: Joey's World"
+        ],
+        "tcg_date": "2013-10-11",
+        "card_count": 6
+    },
+    "LCJW": {
+        "set_names": [
+            "Legendary Collection 4: Joey's World Mega Pack"
+        ],
+        "tcg_date": "2013-10-11",
+        "card_count": 298
+    },
+    "LC05": {
+        "set_names": [
+            "Legendary Collection 5D's"
+        ],
+        "tcg_date": "2014-10-23",
+        "card_count": 5
+    },
+    "LC5D": {
+        "set_names": [
+            "Legendary Collection 5D's Mega Pack"
+        ],
+        "tcg_date": "2014-10-23",
+        "card_count": 256
+    },
+    "LC06": {
+        "set_names": [
+            "Legendary Collection Kaiba"
+        ],
+        "tcg_date": "2018-03-08",
+        "card_count": 5
+    },
+    "LCKC": {
+        "set_names": [
+            "Legendary Collection Kaiba Mega Pack"
+        ],
+        "tcg_date": "2018-03-08",
+        "card_count": 110
+    },
+    "LDK2": {
+        "set_names": [
+            "Legendary Decks II"
+        ],
+        "tcg_date": "2016-10-06",
+        "card_count": 130
+    },
+    "LEDD": {
+        "set_names": [
+            "Legendary Dragon Decks"
+        ],
+        "tcg_date": "2017-10-05",
+        "card_count": 111
+    },
+    "LEDU": {
+        "set_names": [
+            "Legendary Duelists"
+        ],
+        "tcg_date": "2017-09-07",
+        "card_count": 52
+    },
+    "LED2": {
+        "set_names": [
+            "Legendary Duelists: Ancient Millennium"
+        ],
+        "tcg_date": "2018-02-22",
+        "card_count": 53
+    },
+    "LED9": {
+        "set_names": [
+            "Legendary Duelists: Duels From the Deep"
+        ],
+        "tcg_date": "2022-06-16",
+        "card_count": 57
+    },
+    "LED5": {
+        "set_names": [
+            "Legendary Duelists: Immortal Destiny"
+        ],
+        "tcg_date": "2019-09-26",
+        "card_count": 58
+    },
+    "LED6": {
+        "set_names": [
+            "Legendary Duelists: Magical Hero"
+        ],
+        "tcg_date": "2020-01-16",
+        "card_count": 56
+    },
+    "LED7": {
+        "set_names": [
+            "Legendary Duelists: Rage of Ra"
+        ],
+        "tcg_date": "2020-09-24",
+        "card_count": 57
+    },
+    "LDS1": {
+        "set_names": [
+            "Legendary Duelists: Season 1"
+        ],
+        "tcg_date": "2020-07-02",
+        "card_count": 121
+    },
+    "LDS2": {
+        "set_names": [
+            "Legendary Duelists: Season 2"
+        ],
+        "tcg_date": "2021-01-21",
+        "card_count": 131
+    },
+    "LDS3": {
+        "set_names": [
+            "Legendary Duelists: Season 3"
+        ],
+        "tcg_date": "2022-07-21",
+        "card_count": 138
+    },
+    "LED4": {
+        "set_names": [
+            "Legendary Duelists: Sisters of the Rose"
+        ],
+        "tcg_date": "2019-01-10",
+        "card_count": 56
+    },
+    "LD10": {
+        "set_names": [
+            "Legendary Duelists: Soulburning Volcano"
+        ],
+        "tcg_date": "2023-08-10",
+        "card_count": 62
+    },
+    "LED8": {
+        "set_names": [
+            "Legendary Duelists: Synchro Storm"
+        ],
+        "tcg_date": "2021-10-28",
+        "card_count": 56
+    },
+    "LED3": {
+        "set_names": [
+            "Legendary Duelists: White Dragon Abyss"
+        ],
+        "tcg_date": "2018-09-27",
+        "card_count": 56
+    },
+    "LEHD": {
+        "set_names": [
+            "Legendary Hero Decks"
+        ],
+        "tcg_date": "2018-10-04",
+        "card_count": 117
+    },
+    "LDPP": {
+        "set_names": [
+            "Light and Darkness Power Pack"
+        ],
+        "tcg_date": "2007-11-14",
+        "card_count": 1
+    },
+    "LODT": {
+        "set_names": [
+            "Light of Destruction",
+            "Light of Destruction Sneak Peek Participation Card",
+            "Light of Destruction: Special Edition"
+        ],
+        "tcg_date": "2008-05-13",
+        "card_count": 100
+    },
+    "LIOV": {
+        "set_names": [
+            "Lightning Overdrive",
+            "Lightning Overdrive Premiere! promotional card"
+        ],
+        "tcg_date": "2021-06-03",
+        "card_count": 101
+    },
+    "JUMP": {
+        "set_names": [
+            "Limited Edition 1",
+            "Shonen Jump 2007 subscription bonus",
+            "Shonen Jump December 2010 subscription bonus",
+            "Shonen Jump December 2011 subscription bonus",
+            "Shonen Jump February 2009 subscription bonus",
+            "Shonen Jump June/July 2011 subscription bonus",
+            "Shonen Jump March 2010 subscription bonus",
+            "Shonen Jump May 2006 subscription bonus",
+            "Shonen Jump May 2008 subscription bonus",
+            "Shonen Jump May 2010 subscription bonus",
+            "Shonen Jump Vol. 10, Issue 1 promotional card",
+            "Shonen Jump Vol. 10, Issue 3 promotional card",
+            "Shonen Jump Vol. 10, Issue 4 promotional card",
+            "Shonen Jump Vol. 4, Issue 11 promotional card",
+            "Shonen Jump Vol. 4, Issue 12 promotional card",
+            "Shonen Jump Vol. 5, Issue 1 promotional card",
+            "Shonen Jump Vol. 5, Issue 11 promotional card",
+            "Shonen Jump Vol. 5, Issue 4 promotional card",
+            "Shonen Jump Vol. 5, Issue 6 promotional card",
+            "Shonen Jump Vol. 5, Issue 9 promotional card",
+            "Shonen Jump Vol. 6, Issue 1 promotional card",
+            "Shonen Jump Vol. 6, Issue 12 promotional card",
+            "Shonen Jump Vol. 6, Issue 3 promotional card",
+            "Shonen Jump Vol. 6, Issue 5 promotional card",
+            "Shonen Jump Vol. 6, Issue 9 promotional card",
+            "Shonen Jump Vol. 7, Issue 1 promotional card",
+            "Shonen Jump Vol. 7, Issue 11 promotional card",
+            "Shonen Jump Vol. 7, Issue 3 promotional card",
+            "Shonen Jump Vol. 7, Issue 6 promotional card",
+            "Shonen Jump Vol. 7, Issue 9 promotional card",
+            "Shonen Jump Vol. 8, Issue 1 promotional card",
+            "Shonen Jump Vol. 8, Issue 11 promotional card",
+            "Shonen Jump Vol. 8, Issue 3 promotional card",
+            "Shonen Jump Vol. 8, Issue 5 promotional card",
+            "Shonen Jump Vol. 8, Issue 7 promotional card",
+            "Shonen Jump Vol. 8, Issue 9 promotional card",
+            "Shonen Jump Vol. 9, Issue 1 promotional card",
+            "Shonen Jump Vol. 9, Issue 10 promotional card",
+            "Shonen Jump Vol. 9, Issue 3 promotional card",
+            "Shonen Jump Vol. 9, Issue 4 promotional card",
+            "Shonen Jump Vol. 9, Issue 6 promotional card",
+            "Shonen Jump Vol. 9, Issue 8 promotional card",
+            "Weekly Shonen Jump Alpha April 2012 membership promotional card",
+            "Weekly Shonen Jump Alpha December 2012 membership promotional card",
+            "Weekly Shonen Jump Alpha July 2012 membership promotional card",
+            "Weekly Shonen Jump Alpha September 2012 membership promotional card",
+            "Weekly Shonen Jump April 2015 membership promotional card",
+            "Weekly Shonen Jump April 2016 membership promotional card",
+            "Weekly Shonen Jump April 2017 membership promotional card",
+            "Weekly Shonen Jump April 2018 membership promotional card",
+            "Weekly Shonen Jump August 2014 membership promotional card",
+            "Weekly Shonen Jump December 2013 membership promotional card",
+            "Weekly Shonen Jump December 2018 membership promotional cards",
+            "Weekly Shonen Jump February 2015 membership promotional card",
+            "Weekly Shonen Jump January 2016 membership promotional card",
+            "Weekly Shonen Jump January 2017 membership promotional card",
+            "Weekly Shonen Jump January 2018 membership promotional card",
+            "Weekly Shonen Jump July 2013 membership promotional card",
+            "Weekly Shonen Jump July 2015 membership promotional card",
+            "Weekly Shonen Jump July 2016 membership promotional card",
+            "Weekly Shonen Jump July 2017 membership promotional card",
+            "Weekly Shonen Jump July 2018 membership promotional card",
+            "Weekly Shonen Jump March 2013 membership promotional card",
+            "Weekly Shonen Jump March 2014 membership promotional card",
+            "Weekly Shonen Jump November 2014 membership promotional card",
+            "Weekly Shonen Jump November 2017 membership promotional card",
+            "Weekly Shonen Jump November 2018 membership promotional card",
+            "Weekly Shonen Jump October 2015 membership promotional card",
+            "Weekly Shonen Jump October 2016 membership promotional card",
+            "Weekly Shonen Jump September 2013 membership promotional card"
+        ],
+        "tcg_date": "2008-01-16",
+        "card_count": 4
+    },
+    "LTGY": {
+        "set_names": [
+            "Lord of the Tachyon Galaxy",
+            "Lord of the Tachyon Galaxy Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2013-05-17",
+        "card_count": 100
+    },
+    "SDLS": {
+        "set_names": [
+            "Lost Sanctuary Structure Deck"
+        ],
+        "tcg_date": "2011-06-10",
+        "card_count": 38
+    },
+    "SDMM": {
+        "set_names": [
+            "Machina Mayhem Structure Deck"
+        ],
+        "tcg_date": "2010-02-19",
+        "card_count": 37
+    },
+    "SR03": {
+        "set_names": [
+            "Machine Reactor Structure Deck"
+        ],
+        "tcg_date": "2017-04-13",
+        "card_count": 40
+    },
+    "MRL": {
+        "set_names": [
+            "Magic Ruler"
+        ],
+        "tcg_date": "2002-09-16",
+        "card_count": 235
+    },
+    "MFC": {
+        "set_names": [
+            "Magician's Force"
+        ],
+        "tcg_date": "2003-10-10",
+        "card_count": 108
+    },
+    "MAMA": {
+        "set_names": [
+            "Magnificent Mavens"
+        ],
+        "tcg_date": "2022-11-03",
+        "card_count": 114
+    },
+    "TYL": {
+        "set_names": [
+            "Make-A-Wish Foundation promotional card"
+        ],
+        "tcg_date": "2005-08-05",
+        "card_count": 1
+    },
+    "MC1": {
+        "set_names": [
+            "Master Collection Volume 1"
+        ],
+        "tcg_date": "2004-12-01",
+        "card_count": 6
+    },
+    "MC2": {
+        "set_names": [
+            "Master Collection Volume 2"
+        ],
+        "tcg_date": "2005-10-18",
+        "card_count": 6
+    },
+    "SDMP": {
+        "set_names": [
+            "Master of Pendulum Structure Deck"
+        ],
+        "tcg_date": "2015-12-03",
+        "card_count": 43
+    },
+    "MF01": {
+        "set_names": [
+            "Mattel Action Figure promotional cards: Series 1"
+        ],
+        "tcg_date": "2006-01-01",
+        "card_count": 1
+    },
+    "MF02": {
+        "set_names": [
+            "Mattel Action Figure promotional cards: Series 2"
+        ],
+        "tcg_date": "2006-01-01",
+        "card_count": 4
+    },
+    "MF03": {
+        "set_names": [
+            "Mattel Action Figure promotional cards: Series 3"
+        ],
+        "tcg_date": "2006-01-01",
+        "card_count": 11
+    },
+    "MACR": {
+        "set_names": [
+            "Maximum Crisis",
+            "Maximum Crisis Sneak Peek Participation Card",
+            "Maximum Crisis: Special Edition"
+        ],
+        "tcg_date": "2017-05-04",
+        "card_count": 100
+    },
+    "MAGO": {
+        "set_names": [
+            "Maximum Gold"
+        ],
+        "tcg_date": "2020-11-12",
+        "card_count": 162
+    },
+    "MGED": {
+        "set_names": [
+            "Maximum Gold: El Dorado"
+        ],
+        "tcg_date": "2021-11-18",
+        "card_count": 152
+    },
+    "MAZE": {
+        "set_names": [
+            "Maze of Memories"
+        ],
+        "tcg_date": "2023-03-09",
+        "card_count": 67
+    },
+    "MZMI": {
+        "set_names": [
+            "Maze of Millennia"
+        ],
+        "tcg_date": "2024-01-18",
+        "card_count": 85
+    },
+    "MP1": {
+        "set_names": [
+            "McDonald's Promotional Cards"
+        ],
+        "tcg_date": "2002-12-20",
+        "card_count": 15
+    },
+    "MDP2": {
+        "set_names": [
+            "McDonald's Promotional Cards 2"
+        ],
+        "tcg_date": "2006-12-22",
+        "card_count": 20
+    },
+    "MRD": {
+        "set_names": [
+            "Metal Raiders"
+        ],
+        "tcg_date": "2002-06-26",
+        "card_count": 432
+    },
+    "MIL1": {
+        "set_names": [
+            "Millennium Pack"
+        ],
+        "tcg_date": "2016-04-14",
+        "card_count": 48
+    },
+    "MOV": {
+        "set_names": [
+            "Movie Pack"
+        ],
+        "tcg_date": "2004-08-13",
+        "card_count": 4
+    },
+    "MYFI": {
+        "set_names": [
+            "Mystic Fighters"
+        ],
+        "tcg_date": "2019-11-22",
+        "card_count": 60
+    },
+    "NKRT": {
+        "set_names": [
+            "Noble Knights of the Round Table Box Set",
+            "Noble Knights of the Round Table Power-Up Pack"
+        ],
+        "tcg_date": "2014-11-20",
+        "card_count": 38
+    },
+    "NUMH": {
+        "set_names": [
+            "Number Hunters"
+        ],
+        "tcg_date": "2013-07-12",
+        "card_count": 60
+    },
+    "SDOK": {
+        "set_names": [
+            "Onslaught of the Fire Kings Structure Deck"
+        ],
+        "tcg_date": "2013-02-08",
+        "card_count": 39
+    },
+    "ORCS": {
+        "set_names": [
+            "Order of Chaos",
+            "Order of Chaos Sneak Peek Participation Card",
+            "Order of Chaos: Special Edition"
+        ],
+        "tcg_date": "2012-01-20",
+        "card_count": 100
+    },
+    "OP01": {
+        "set_names": [
+            "OTS Tournament Pack 1"
+        ],
+        "tcg_date": "2016-03-18",
+        "card_count": 27
+    },
+    "OP10": {
+        "set_names": [
+            "OTS Tournament Pack 10",
+            "OTS Tournament Pack 10 (POR)"
+        ],
+        "tcg_date": "2019-04-18",
+        "card_count": 25
+    },
+    "OP11": {
+        "set_names": [
+            "OTS Tournament Pack 11",
+            "OTS Tournament Pack 11 (POR)"
+        ],
+        "tcg_date": "2019-08-15",
+        "card_count": 25
+    },
+    "OP12": {
+        "set_names": [
+            "OTS Tournament Pack 12",
+            "OTS Tournament Pack 12 (POR)"
+        ],
+        "tcg_date": "2019-12-05",
+        "card_count": 25
+    },
+    "OP13": {
+        "set_names": [
+            "OTS Tournament Pack 13",
+            "OTS Tournament Pack 13 (POR)"
+        ],
+        "tcg_date": "2020-06-15",
+        "card_count": 25
+    },
+    "OP14": {
+        "set_names": [
+            "OTS Tournament Pack 14",
+            "OTS Tournament Pack 14 (POR)"
+        ],
+        "tcg_date": "2020-10-08",
+        "card_count": 25
+    },
+    "OP15": {
+        "set_names": [
+            "OTS Tournament Pack 15",
+            "OTS Tournament Pack 15 (POR)"
+        ],
+        "tcg_date": "2021-02-17",
+        "card_count": 26
+    },
+    "OP16": {
+        "set_names": [
+            "OTS Tournament Pack 16",
+            "OTS Tournament Pack 16 (POR)"
+        ],
+        "tcg_date": "2021-06-09",
+        "card_count": 26
+    },
+    "OP17": {
+        "set_names": [
+            "OTS Tournament Pack 17",
+            "OTS Tournament Pack 17 (POR)"
+        ],
+        "tcg_date": "2021-10-13",
+        "card_count": 25
+    },
+    "OP18": {
+        "set_names": [
+            "OTS Tournament Pack 18",
+            "OTS Tournament Pack 18 (POR)"
+        ],
+        "tcg_date": "2022-02-17",
+        "card_count": 25
+    },
+    "OP19": {
+        "set_names": [
+            "OTS Tournament Pack 19",
+            "OTS Tournament Pack 19 (POR)"
+        ],
+        "tcg_date": "2022-06-15",
+        "card_count": 29
+    },
+    "OP02": {
+        "set_names": [
+            "OTS Tournament Pack 2"
+        ],
+        "tcg_date": "2016-07-15",
+        "card_count": 27
+    },
+    "OP20": {
+        "set_names": [
+            "OTS Tournament Pack 20"
+        ],
+        "tcg_date": "2022-10-20",
+        "card_count": 27
+    },
+    "OP21": {
+        "set_names": [
+            "OTS Tournament Pack 21"
+        ],
+        "tcg_date": "2023-02-09",
+        "card_count": 26
+    },
+    "OP22": {
+        "set_names": [
+            "OTS Tournament Pack 22"
+        ],
+        "tcg_date": "2023-07-19",
+        "card_count": 25
+    },
+    "OP23": {
+        "set_names": [
+            "OTS Tournament Pack 23"
+        ],
+        "tcg_date": "2023-10-25",
+        "card_count": 27
+    },
+    "OP24": {
+        "set_names": [
+            "OTS Tournament Pack 24"
+        ],
+        "tcg_date": "2024-02-14",
+        "card_count": 27
+    },
+    "OP25": {
+        "set_names": [
+            "OTS Tournament Pack 25"
+        ],
+        "tcg_date": "0000-00-00",
+        "card_count": 27
+    },
+    "OP03": {
+        "set_names": [
+            "OTS Tournament Pack 3"
+        ],
+        "tcg_date": "2016-11-17",
+        "card_count": 27
+    },
+    "OP04": {
+        "set_names": [
+            "OTS Tournament Pack 4"
+        ],
+        "tcg_date": "2017-04-06",
+        "card_count": 27
+    },
+    "OP05": {
+        "set_names": [
+            "OTS Tournament Pack 5"
+        ],
+        "tcg_date": "2017-08-03",
+        "card_count": 27
+    },
+    "OP06": {
+        "set_names": [
+            "OTS Tournament Pack 6"
+        ],
+        "tcg_date": "2017-12-07",
+        "card_count": 26
+    },
+    "OP07": {
+        "set_names": [
+            "OTS Tournament Pack 7",
+            "OTS Tournament Pack 7 (POR)"
+        ],
+        "tcg_date": "2018-04-13",
+        "card_count": 26
+    },
+    "OP08": {
+        "set_names": [
+            "OTS Tournament Pack 8",
+            "OTS Tournament Pack 8 (POR)"
+        ],
+        "tcg_date": "2018-08-17",
+        "card_count": 26
+    },
+    "OP09": {
+        "set_names": [
+            "OTS Tournament Pack 9",
+            "OTS Tournament Pack 9 (POR)"
+        ],
+        "tcg_date": "2018-12-06",
+        "card_count": 26
+    },
+    "SDPD": {
+        "set_names": [
+            "Pendulum Domination Structure Deck"
+        ],
+        "tcg_date": "2017-01-19",
+        "card_count": 43
+    },
+    "PEVO": {
+        "set_names": [
+            "Pendulum Evolution"
+        ],
+        "tcg_date": "2017-06-22",
+        "card_count": 60
+    },
+    "PTDN": {
+        "set_names": [
+            "Phantom Darkness",
+            "Phantom Darkness Sneak Peek Participation Card",
+            "Phantom Darkness: Special Edition"
+        ],
+        "tcg_date": "2008-02-13",
+        "card_count": 100
+    },
+    "PHNI": {
+        "set_names": [
+            "Phantom Nightmare"
+        ],
+        "tcg_date": "2024-02-08",
+        "card_count": 101
+    },
+    "PHRA": {
+        "set_names": [
+            "Phantom Rage",
+            "Phantom Rage Premiere! promotional card"
+        ],
+        "tcg_date": "2020-11-05",
+        "card_count": 101
+    },
+    "PT1": {
+        "set_names": [
+            "Pharaoh Tour 2005 promotional cards"
+        ],
+        "tcg_date": "2005-12-17",
+        "card_count": 2
+    },
+    "PT02": {
+        "set_names": [
+            "Pharaoh Tour 2006 promotional cards"
+        ],
+        "tcg_date": "2006-10-28",
+        "card_count": 2
+    },
+    "PT03": {
+        "set_names": [
+            "Pharaoh Tour 2007 promotional cards"
+        ],
+        "tcg_date": "2007-10-13",
+        "card_count": 2
+    },
+    "PSV": {
+        "set_names": [
+            "Pharaoh's Servant"
+        ],
+        "tcg_date": "2002-10-20",
+        "card_count": 315
+    },
+    "PGD": {
+        "set_names": [
+            "Pharaonic Guardian"
+        ],
+        "tcg_date": "2003-07-18",
+        "card_count": 108
+    },
+    "PHHY": {
+        "set_names": [
+            "Photon Hypernova"
+        ],
+        "tcg_date": "2023-02-09",
+        "card_count": 101
+    },
+    "PHSW": {
+        "set_names": [
+            "Photon Shockwave",
+            "Photon Shockwave Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2011-11-10",
+        "card_count": 100
+    },
+    "POTD": {
+        "set_names": [
+            "Power of the Duelist"
+        ],
+        "tcg_date": "2006-08-16",
+        "card_count": 60
+    },
+    "POTE": {
+        "set_names": [
+            "Power of the Elements"
+        ],
+        "tcg_date": "2022-08-04",
+        "card_count": 101
+    },
+    "PRC1": {
+        "set_names": [
+            "Premium Collection Tin"
+        ],
+        "tcg_date": "2012-03-16",
+        "card_count": 25
+    },
+    "PGLD": {
+        "set_names": [
+            "Premium Gold"
+        ],
+        "tcg_date": "2014-03-28",
+        "card_count": 90
+    },
+    "PGL3": {
+        "set_names": [
+            "Premium Gold: Infinite Gold"
+        ],
+        "tcg_date": "2016-03-17",
+        "card_count": 100
+    },
+    "PGL2": {
+        "set_names": [
+            "Premium Gold: Return of the Bling"
+        ],
+        "tcg_date": "2015-03-19",
+        "card_count": 91
+    },
+    "PP01": {
+        "set_names": [
+            "Premium Pack (TCG)"
+        ],
+        "tcg_date": "2007-07-26",
+        "card_count": 15
+    },
+    "PP02": {
+        "set_names": [
+            "Premium Pack 2 (TCG)"
+        ],
+        "tcg_date": "2008-07-31",
+        "card_count": 20
+    },
+    "PRIO": {
+        "set_names": [
+            "Primal Origin",
+            "Primal Origin Plus",
+            "Primal Origin Sneak Peek Participation Card",
+            "Primal Origin: Deluxe Edition"
+        ],
+        "tcg_date": "2014-05-16",
+        "card_count": 100
+    },
+    "RYMP": {
+        "set_names": [
+            "Ra Yellow Mega Pack",
+            "Ra Yellow Mega Pack: Special Edition"
+        ],
+        "tcg_date": "2012-02-17",
+        "card_count": 113
+    },
+    "RATE": {
+        "set_names": [
+            "Raging Tempest",
+            "Raging Tempest Sneak Peek Participation Card",
+            "Raging Tempest: Special Edition"
+        ],
+        "tcg_date": "2017-02-09",
+        "card_count": 100
+    },
+    "SDLI": {
+        "set_names": [
+            "Realm of Light Structure Deck"
+        ],
+        "tcg_date": "2014-06-27",
+        "card_count": 36
+    },
+    "SDRE": {
+        "set_names": [
+            "Realm of the Sea Emperor Structure Deck"
+        ],
+        "tcg_date": "2012-10-11",
+        "card_count": 39
+    },
+    "RP01": {
+        "set_names": [
+            "Retro Pack"
+        ],
+        "tcg_date": "2008-07-08",
+        "card_count": 101
+    },
+    "RP02": {
+        "set_names": [
+            "Retro Pack 2"
+        ],
+        "tcg_date": "2009-07-28",
+        "card_count": 101
+    },
+    "REDU": {
+        "set_names": [
+            "Return of the Duelist",
+            "Return of the Duelist Sneak Peek Participation Card",
+            "Return of the Duelist: Special Edition"
+        ],
+        "tcg_date": "2012-08-24",
+        "card_count": 100
+    },
+    "RDS": {
+        "set_names": [
+            "Rise of Destiny",
+            "Rise of Destiny: Special Edition"
+        ],
+        "tcg_date": "2004-11-20",
+        "card_count": 60
+    },
+    "SDRL": {
+        "set_names": [
+            "Rise of the Dragon Lords Structure Deck"
+        ],
+        "tcg_date": "2007-10-24",
+        "card_count": 37
+    },
+    "ROTD": {
+        "set_names": [
+            "Rise of the Duelist",
+            "Rise of the Duelist Premiere! promotional card"
+        ],
+        "tcg_date": "2020-08-06",
+        "card_count": 101
+    },
+    "SR02": {
+        "set_names": [
+            "Rise of the True Dragons Structure Deck"
+        ],
+        "tcg_date": "2016-07-07",
+        "card_count": 41
+    },
+    "RIRA": {
+        "set_names": [
+            "Rising Rampage",
+            "Rising Rampage Sneak Peek Participation Card",
+            "Rising Rampage Special Edition"
+        ],
+        "tcg_date": "2019-07-26",
+        "card_count": 100
+    },
+    "SDBE": {
+        "set_names": [
+            "Saga of Blue-Eyes White Dragon Structure Deck"
+        ],
+        "tcg_date": "2013-09-12",
+        "card_count": 40
+    },
+    "SAAS": {
+        "set_names": [
+            "Samurai Assault"
+        ],
+        "tcg_date": "2011-12-06",
+        "card_count": 1
+    },
+    "SDWA": {
+        "set_names": [
+            "Samurai Warlords Structure Deck"
+        ],
+        "tcg_date": "2012-06-21",
+        "card_count": 41
+    },
+    "TKN1": {
+        "set_names": [
+            "San Diego Comic-Con promotional cards"
+        ],
+        "tcg_date": "2006-07-20",
+        "card_count": 4
+    },
+    "SAST": {
+        "set_names": [
+            "Savage Strike",
+            "Savage Strike Sneak Peek Participation Card",
+            "Savage Strike Special Edition"
+        ],
+        "tcg_date": "2019-01-31",
+        "card_count": 100
+    },
+    "SESL": {
+        "set_names": [
+            "Secret Slayers"
+        ],
+        "tcg_date": "2020-04-03",
+        "card_count": 60
+    },
+    "SECE": {
+        "set_names": [
+            "Secrets of Eternity",
+            "Secrets of Eternity Sneak Peek Participation Card",
+            "Secrets of Eternity: Super Edition"
+        ],
+        "tcg_date": "2015-01-15",
+        "card_count": 100
+    },
+    "SOI": {
+        "set_names": [
+            "Shadow of Infinity",
+            "Shadow of Infinity: Special Edition"
+        ],
+        "tcg_date": "2006-02-18",
+        "card_count": 60
+    },
+    "SHSP": {
+        "set_names": [
+            "Shadow Specters",
+            "Shadow Specters Sneak Peek Participation Card",
+            "Shadow Specters: Special Edition"
+        ],
+        "tcg_date": "2013-11-08",
+        "card_count": 100
+    },
+    "SHVA": {
+        "set_names": [
+            "Shadows in Valhalla"
+        ],
+        "tcg_date": "2018-08-16",
+        "card_count": 60
+    },
+    "SHVI": {
+        "set_names": [
+            "Shining Victories",
+            "Shining Victories Sneak Peek Participation Card",
+            "Shining Victories: Special Edition"
+        ],
+        "tcg_date": "2016-05-05",
+        "card_count": 100
+    },
+    "SJC": {
+        "set_names": [
+            "Shonen Jump Championship 2004 Prize Card",
+            "Shonen Jump Championship 2005 Prize Card",
+            "Shonen Jump Championship 2006 Prize Card"
+        ],
+        "tcg_date": "2004-12-04",
+        "card_count": 1
+    },
+    "SJCS": {
+        "set_names": [
+            "Shonen Jump Championship 2007 Prize Card A",
+            "Shonen Jump Championship 2007 Prize Card B",
+            "Shonen Jump Championship 2008 Prize Card",
+            "Shonen Jump Championship 2009 Prize Card"
+        ],
+        "tcg_date": "2007-01-27",
+        "card_count": 1
+    },
+    "JMPS": {
+        "set_names": [
+            "Shonen Jump Scholastic Edition Vol. 9, Issue 1 promotional card",
+            "SJ Jump Pack Spring 2020 promotional card",
+            "WSJ Jump Pack Fall 2016 promotional card",
+            "WSJ Jump Pack Fall 2017 promotional card",
+            "WSJ Jump Pack Fall 2018 promotional card",
+            "WSJ Jump Pack Spring 2016 promotional card",
+            "WSJ Jump Pack Spring 2017 promotional card",
+            "WSJ Jump Pack Spring 2018 promotional card",
+            "WSJ Jump Pack Spring 2019 promotional card"
+        ],
+        "tcg_date": "2011-01-01",
+        "card_count": 1
+    },
+    "JMP": {
+        "set_names": [
+            "Shonen Jump Vol. 1, Issue 1 promotional card",
+            "Shonen Jump Vol. 2, Issue 1 promotional card",
+            "Shonen Jump Vol. 3, Issue 1 promotional card",
+            "Shonen Jump Vol. 4, Issue 1 promotional card",
+            "Swedish Shonen Jump 2004, Issue 2 promotional card",
+            "Swedish Shonen Jump 2005, Issue 12 promotional card",
+            "Ultimate Edition"
+        ],
+        "tcg_date": "2002-11-26",
+        "card_count": 1
+    },
+    "SOFU": {
+        "set_names": [
+            "Soul Fusion",
+            "Soul Fusion Sneak Peek Participation Card",
+            "Soul Fusion Special Edition"
+        ],
+        "tcg_date": "2018-10-18",
+        "card_count": 100
+    },
+    "SOD": {
+        "set_names": [
+            "Soul of the Duelist"
+        ],
+        "tcg_date": "2004-10-01",
+        "card_count": 60
+    },
+    "YS14": {
+        "set_names": [
+            "Space-Time Showdown Power-Up Pack",
+            "Super Starter: Space-Time Showdown"
+        ],
+        "tcg_date": "2014-07-10",
+        "card_count": 15
+    },
+    "DEM5": {
+        "set_names": [
+            "Speed Duel Demo Deck"
+        ],
+        "tcg_date": "2019-06-08",
+        "card_count": 11
+    },
+    "DEM6": {
+        "set_names": [
+            "Speed Duel Demo Deck 2020"
+        ],
+        "tcg_date": "2020-01-01",
+        "card_count": 21
+    },
+    "SGX1": {
+        "set_names": [
+            "Speed Duel GX: Duel Academy Box"
+        ],
+        "tcg_date": "2022-03-17",
+        "card_count": 218
+    },
+    "SGX3": {
+        "set_names": [
+            "Speed Duel GX: Duelists of Shadows"
+        ],
+        "tcg_date": "2023-03-30",
+        "card_count": 221
+    },
+    "SGX2": {
+        "set_names": [
+            "Speed Duel GX: Midterm Paradox"
+        ],
+        "tcg_date": "2022-10-06",
+        "card_count": 110
+    },
+    "SS01": {
+        "set_names": [
+            "Speed Duel Starter Decks: Destiny Masters"
+        ],
+        "tcg_date": "2019-01-24",
+        "card_count": 64
+    },
+    "SS02": {
+        "set_names": [
+            "Speed Duel Starter Decks: Duelists of Tomorrow"
+        ],
+        "tcg_date": "2019-01-24",
+        "card_count": 69
+    },
+    "SS04": {
+        "set_names": [
+            "Speed Duel Starter Decks: Match of the Millennium"
+        ],
+        "tcg_date": "2020-05-15",
+        "card_count": 67
+    },
+    "SS05": {
+        "set_names": [
+            "Speed Duel Starter Decks: Twisted Nightmares"
+        ],
+        "tcg_date": "2020-05-15",
+        "card_count": 66
+    },
+    "SS03": {
+        "set_names": [
+            "Speed Duel Starter Decks: Ultimate Predators"
+        ],
+        "tcg_date": "2019-08-01",
+        "card_count": 63
+    },
+    "STP1": {
+        "set_names": [
+            "Speed Duel Tournament Pack 1"
+        ],
+        "tcg_date": "2019-04-18",
+        "card_count": 18
+    },
+    "STP2": {
+        "set_names": [
+            "Speed Duel Tournament Pack 2"
+        ],
+        "tcg_date": "2019-10-10",
+        "card_count": 18
+    },
+    "STP3": {
+        "set_names": [
+            "Speed Duel Tournament Pack 3"
+        ],
+        "tcg_date": "2022-03-24",
+        "card_count": 34
+    },
+    "STP4": {
+        "set_names": [
+            "Speed Duel Tournament Pack 4"
+        ],
+        "tcg_date": "2022-09-29",
+        "card_count": 35
+    },
+    "STP5": {
+        "set_names": [
+            "Speed Duel Tournament Pack 5"
+        ],
+        "tcg_date": "2023-03-09",
+        "card_count": 35
+    },
+    "STP6": {
+        "set_names": [
+            "Speed Duel Tournament Pack 6"
+        ],
+        "tcg_date": "2023-09-06",
+        "card_count": 35
+    },
+    "SBLS": {
+        "set_names": [
+            "Speed Duel: Arena of Lost Souls"
+        ],
+        "tcg_date": "2019-03-28",
+        "card_count": 50
+    },
+    "SBAD": {
+        "set_names": [
+            "Speed Duel: Attack from the Deep"
+        ],
+        "tcg_date": "2019-05-30",
+        "card_count": 50
+    },
+    "SBCB": {
+        "set_names": [
+            "Speed Duel: Battle City Box"
+        ],
+        "tcg_date": "2020-11-26",
+        "card_count": 223
+    },
+    "SBSC": {
+        "set_names": [
+            "Speed Duel: Scars of Battle"
+        ],
+        "tcg_date": "2019-08-01",
+        "card_count": 50
+    },
+    "SBC1": {
+        "set_names": [
+            "Speed Duel: Streets of Battle City"
+        ],
+        "tcg_date": "2023-08-24",
+        "card_count": 193
+    },
+    "SBTK": {
+        "set_names": [
+            "Speed Duel: Trials of the Kingdom",
+            "Speed Duel: Trials of the Kingdom Sneak Peek participation cards"
+        ],
+        "tcg_date": "2019-12-05",
+        "card_count": 51
+    },
+    "SRL": {
+        "set_names": [
+            "Spell Ruler"
+        ],
+        "tcg_date": "2002-09-16",
+        "card_count": 208
+    },
+    "SDSC": {
+        "set_names": [
+            "Spellcaster's Command Structure Deck",
+            "Spellcaster's Command Structure Deck: Special Edition"
+        ],
+        "tcg_date": "2009-03-31",
+        "card_count": 38
+    },
+    "SPWA": {
+        "set_names": [
+            "Spirit Warriors"
+        ],
+        "tcg_date": "2017-11-16",
+        "card_count": 60
+    },
+    "SP13": {
+        "set_names": [
+            "Star Pack 2013"
+        ],
+        "tcg_date": "2013-03-01",
+        "card_count": 50
+    },
+    "SP14": {
+        "set_names": [
+            "Star Pack 2014"
+        ],
+        "tcg_date": "2014-02-21",
+        "card_count": 50
+    },
+    "SP15": {
+        "set_names": [
+            "Star Pack ARC-V"
+        ],
+        "tcg_date": "2015-06-12",
+        "card_count": 50
+    },
+    "SP17": {
+        "set_names": [
+            "Star Pack Battle Royal"
+        ],
+        "tcg_date": "2017-03-09",
+        "card_count": 50
+    },
+    "SP18": {
+        "set_names": [
+            "Star Pack VRAINS"
+        ],
+        "tcg_date": "2018-03-29",
+        "card_count": 50
+    },
+    "SOVR": {
+        "set_names": [
+            "Stardust Overdrive",
+            "Stardust Overdrive Sneak Peek Participation Card",
+            "Stardust Overdrive: Special Edition"
+        ],
+        "tcg_date": "2009-11-17",
+        "card_count": 100
+    },
+    "STBL": {
+        "set_names": [
+            "Starstrike Blast",
+            "Starstrike Blast Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2010-11-11",
+        "card_count": 100
+    },
+    "YSD": {
+        "set_names": [
+            "Starter Deck 2006",
+            "Starter Deck 2006: Special Edition"
+        ],
+        "tcg_date": "2006-03-23",
+        "card_count": 40
+    },
+    "YS18": {
+        "set_names": [
+            "Starter Deck: Codebreaker"
+        ],
+        "tcg_date": "2018-07-12",
+        "card_count": 45
+    },
+    "YS11": {
+        "set_names": [
+            "Starter Deck: Dawn of the Xyz"
+        ],
+        "tcg_date": "2011-07-08",
+        "card_count": 43
+    },
+    "5DS3": {
+        "set_names": [
+            "Starter Deck: Duelist Toolbox"
+        ],
+        "tcg_date": "2010-05-28",
+        "card_count": 42
+    },
+    "YSDJ": {
+        "set_names": [
+            "Starter Deck: Jaden Yuki"
+        ],
+        "tcg_date": "2007-07-25",
+        "card_count": 41
+    },
+    "SDJ": {
+        "set_names": [
+            "Starter Deck: Joey"
+        ],
+        "tcg_date": "2003-03-30",
+        "card_count": 50
+    },
+    "SDK": {
+        "set_names": [
+            "Starter Deck: Kaiba"
+        ],
+        "tcg_date": "2002-03-29",
+        "card_count": 96
+    },
+    "SKE": {
+        "set_names": [
+            "Starter Deck: Kaiba Evolution"
+        ],
+        "tcg_date": "2004-03-01",
+        "card_count": 50
+    },
+    "YSKR": {
+        "set_names": [
+            "Starter Deck: Kaiba Reloaded"
+        ],
+        "tcg_date": "2013-12-06",
+        "card_count": 48
+    },
+    "YS17": {
+        "set_names": [
+            "Starter Deck: Link Strike"
+        ],
+        "tcg_date": "2017-07-20",
+        "card_count": 43
+    },
+    "SDP": {
+        "set_names": [
+            "Starter Deck: Pegasus"
+        ],
+        "tcg_date": "2003-03-30",
+        "card_count": 50
+    },
+    "YSDS": {
+        "set_names": [
+            "Starter Deck: Syrus Truesdale"
+        ],
+        "tcg_date": "2007-07-25",
+        "card_count": 41
+    },
+    "YS12": {
+        "set_names": [
+            "Starter Deck: Xyz Symphony"
+        ],
+        "tcg_date": "2012-04-13",
+        "card_count": 43
+    },
+    "5DS1": {
+        "set_names": [
+            "Starter Deck: Yu-Gi-Oh! 5D's"
+        ],
+        "tcg_date": "2008-08-05",
+        "card_count": 43
+    },
+    "5DS2": {
+        "set_names": [
+            "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+        ],
+        "tcg_date": "2009-06-09",
+        "card_count": 43
+    },
+    "SDY": {
+        "set_names": [
+            "Starter Deck: Yugi",
+            "Summoned Skull Sample promotional card"
+        ],
+        "tcg_date": "2002-03-29",
+        "card_count": 95
+    },
+    "SYE": {
+        "set_names": [
+            "Starter Deck: Yugi Evolution"
+        ],
+        "tcg_date": "2004-03-01",
+        "card_count": 50
+    },
+    "YSYR": {
+        "set_names": [
+            "Starter Deck: Yugi Reloaded"
+        ],
+        "tcg_date": "2013-12-06",
+        "card_count": 46
+    },
+    "YS16": {
+        "set_names": [
+            "Starter Deck: Yuya"
+        ],
+        "tcg_date": "2016-05-26",
+        "card_count": 43
+    },
+    "STOR": {
+        "set_names": [
+            "Storm of Ragnarok",
+            "Storm of Ragnarok Sneak Peek Participation Card",
+            "Storm of Ragnarok: Special Edition"
+        ],
+        "tcg_date": "2011-02-08",
+        "card_count": 100
+    },
+    "STON": {
+        "set_names": [
+            "Strike of Neos",
+            "Strike of Neos Sneak Peek Participation Card",
+            "Strike of Neos: Special Edition"
+        ],
+        "tcg_date": "2007-02-28",
+        "card_count": 69
+    },
+    "SDAZ": {
+        "set_names": [
+            "Structure Deck: Albaz Strike"
+        ],
+        "tcg_date": "2022-04-14",
+        "card_count": 46
+    },
+    "SDBT": {
+        "set_names": [
+            "Structure Deck: Beware of Traptrix"
+        ],
+        "tcg_date": "2023-02-23",
+        "card_count": 46
+    },
+    "SD3": {
+        "set_names": [
+            "Structure Deck: Blaze of Destruction"
+        ],
+        "tcg_date": "2005-05-09",
+        "card_count": 31
+    },
+    "SDCS": {
+        "set_names": [
+            "Structure Deck: Cyber Strike"
+        ],
+        "tcg_date": "2021-10-14",
+        "card_count": 48
+    },
+    "SDCL": {
+        "set_names": [
+            "Structure Deck: Cyberse Link"
+        ],
+        "tcg_date": "2017-11-02",
+        "card_count": 43
+    },
+    "SR13": {
+        "set_names": [
+            "Structure Deck: Dark World"
+        ],
+        "tcg_date": "2022-12-01",
+        "card_count": 45
+    },
+    "SD2": {
+        "set_names": [
+            "Structure Deck: Deluxe Edition",
+            "Structure Deck: Zombie Madness"
+        ],
+        "tcg_date": "2005-01-01",
+        "card_count": 2
+    },
+    "SD09": {
+        "set_names": [
+            "Structure Deck: Dinosaur's Rage",
+            "Structure Deck: Dinosaur's Rage Special Set"
+        ],
+        "tcg_date": "2006-10-20",
+        "card_count": 36
+    },
+    "SD1": {
+        "set_names": [
+            "Structure Deck: Dragon's Roar"
+        ],
+        "tcg_date": "2005-01-01",
+        "card_count": 28
+    },
+    "SR14": {
+        "set_names": [
+            "Structure Deck: Fire Kings"
+        ],
+        "tcg_date": "2023-12-07",
+        "card_count": 48
+    },
+    "SDFC": {
+        "set_names": [
+            "Structure Deck: Freezing Chains"
+        ],
+        "tcg_date": "2021-02-18",
+        "card_count": 46
+    },
+    "SD4": {
+        "set_names": [
+            "Structure Deck: Fury from the Deep"
+        ],
+        "tcg_date": "2005-05-09",
+        "card_count": 32
+    },
+    "SD7": {
+        "set_names": [
+            "Structure Deck: Invincible Fortress"
+        ],
+        "tcg_date": "2006-05-15",
+        "card_count": 32
+    },
+    "SR06": {
+        "set_names": [
+            "Structure Deck: Lair of Darkness"
+        ],
+        "tcg_date": "2018-04-19",
+        "card_count": 42
+    },
+    "SDCB": {
+        "set_names": [
+            "Structure Deck: Legend of the Crystal Beasts"
+        ],
+        "tcg_date": "2022-09-29",
+        "card_count": 46
+    },
+    "SD8": {
+        "set_names": [
+            "Structure Deck: Lord of the Storm"
+        ],
+        "tcg_date": "2006-07-12",
+        "card_count": 36
+    },
+    "SD10": {
+        "set_names": [
+            "Structure Deck: Machine Re-Volt"
+        ],
+        "tcg_date": "2007-01-17",
+        "card_count": 37
+    },
+    "SDMA": {
+        "set_names": [
+            "Structure Deck: Marik (TCG)"
+        ],
+        "tcg_date": "2010-10-15",
+        "card_count": 38
+    },
+    "SR10": {
+        "set_names": [
+            "Structure Deck: Mechanized Madness"
+        ],
+        "tcg_date": "2020-04-16",
+        "card_count": 41
+    },
+    "SR08": {
+        "set_names": [
+            "Structure Deck: Order of the Spellcasters"
+        ],
+        "tcg_date": "2019-04-19",
+        "card_count": 41
+    },
+    "SDPL": {
+        "set_names": [
+            "Structure Deck: Powercode Link"
+        ],
+        "tcg_date": "2018-08-09",
+        "card_count": 42
+    },
+    "SDRR": {
+        "set_names": [
+            "Structure Deck: Rokket Revolt"
+        ],
+        "tcg_date": "2019-08-15",
+        "card_count": 46
+    },
+    "SDSA": {
+        "set_names": [
+            "Structure Deck: Sacred Beasts"
+        ],
+        "tcg_date": "2020-07-09",
+        "card_count": 48
+    },
+    "SDKS": {
+        "set_names": [
+            "Structure Deck: Seto Kaiba"
+        ],
+        "tcg_date": "2016-10-20",
+        "card_count": 44
+    },
+    "SDSH": {
+        "set_names": [
+            "Structure Deck: Shaddoll Showdown"
+        ],
+        "tcg_date": "2020-02-13",
+        "card_count": 49
+    },
+    "SDSB": {
+        "set_names": [
+            "Structure Deck: Soulburner"
+        ],
+        "tcg_date": "2019-02-14",
+        "card_count": 45
+    },
+    "SD6": {
+        "set_names": [
+            "Structure Deck: Spellcaster's Judgment"
+        ],
+        "tcg_date": "2006-01-18",
+        "card_count": 36
+    },
+    "SDCH": {
+        "set_names": [
+            "Structure Deck: Spirit Charmers"
+        ],
+        "tcg_date": "2020-10-22",
+        "card_count": 41
+    },
+    "SDCK": {
+        "set_names": [
+            "Structure Deck: The Crimson King"
+        ],
+        "tcg_date": "2023-09-21",
+        "card_count": 49
+    },
+    "SD5": {
+        "set_names": [
+            "Structure Deck: Warrior's Triumph"
+        ],
+        "tcg_date": "2005-10-28",
+        "card_count": 36
+    },
+    "SR05": {
+        "set_names": [
+            "Structure Deck: Wave of Light"
+        ],
+        "tcg_date": "2018-01-18",
+        "card_count": 42
+    },
+    "SDMY": {
+        "set_names": [
+            "Structure Deck: Yugi Muto"
+        ],
+        "tcg_date": "2016-10-20",
+        "card_count": 45
+    },
+    "SR07": {
+        "set_names": [
+            "Structure Deck: Zombie Horde"
+        ],
+        "tcg_date": "2018-11-01",
+        "card_count": 42
+    },
+    "YS13": {
+        "set_names": [
+            "Super Starter Power-Up Pack",
+            "Super Starter: V for Victory"
+        ],
+        "tcg_date": "2013-06-14",
+        "card_count": 15
+    },
+    "SDSE": {
+        "set_names": [
+            "Synchron Extreme Structure Deck"
+        ],
+        "tcg_date": "2015-08-27",
+        "card_count": 43
+    },
+    "TAEV": {
+        "set_names": [
+            "Tactical Evolution",
+            "Tactical Evolution Sneak Peek Participation Card",
+            "Tactical Evolution: Special Edition"
+        ],
+        "tcg_date": "2007-08-15",
+        "card_count": 90
+    },
+    "TAMA": {
+        "set_names": [
+            "Tactical Masters"
+        ],
+        "tcg_date": "2022-08-25",
+        "card_count": 60
+    },
+    "SDDE": {
+        "set_names": [
+            "The Dark Emperor Structure Deck"
+        ],
+        "tcg_date": "2008-04-02",
+        "card_count": 36
+    },
+    "TDIL": {
+        "set_names": [
+            "The Dark Illusion",
+            "The Dark Illusion Sneak Peek Participation Card",
+            "The Dark Illusion: Special Edition"
+        ],
+        "tcg_date": "2016-08-04",
+        "card_count": 100
+    },
+    "TDGS": {
+        "set_names": [
+            "The Duelist Genesis",
+            "The Duelist Genesis Sneak Peek Participation Card",
+            "The Duelist Genesis: Special Edition"
+        ],
+        "tcg_date": "2008-09-02",
+        "card_count": 100
+    },
+    "GRCR": {
+        "set_names": [
+            "The Grand Creators"
+        ],
+        "tcg_date": "2022-01-27",
+        "card_count": 60
+    },
+    "INFO": {
+        "set_names": [
+            "The Infinite Forbidden"
+        ],
+        "tcg_date": "0000-00-00",
+        "card_count": 46
+    },
+    "INCH": {
+        "set_names": [
+            "The Infinity Chasers"
+        ],
+        "tcg_date": "2019-03-21",
+        "card_count": 60
+    },
+    "LART": {
+        "set_names": [
+            "The Lost Art Promotion (series)",
+            "The Lost Art Promotion 2020 D",
+            "The Lost Art Promotion 2020 E",
+            "The Lost Art Promotion 2020 F",
+            "The Lost Art Promotion 2020 G",
+            "The Lost Art Promotion 2020 H",
+            "The Lost Art Promotion 2020 I",
+            "The Lost Art Promotion 2020 J",
+            "The Lost Art Promotion 2020 K",
+            "The Lost Art Promotion 2020 L",
+            "The Lost Art Promotion 2020 M",
+            "The Lost Art Promotion 2020 N",
+            "The Lost Art Promotion 2020 O",
+            "The Lost Art Promotion 2020 P",
+            "The Lost Art Promotion 2020 Q",
+            "The Lost Art Promotion 2020 R",
+            "The Lost Art Promotion 2021 A",
+            "The Lost Art Promotion 2021 B",
+            "The Lost Art Promotion 2021 C",
+            "The Lost Art Promotion 2021 D",
+            "The Lost Art Promotion 2021 E",
+            "The Lost Art Promotion 2021 F",
+            "The Lost Art Promotion 2021 G",
+            "The Lost Art Promotion 2021 H",
+            "The Lost Art Promotion 2021 I",
+            "The Lost Art Promotion 2021 J",
+            "The Lost Art Promotion 2021 K",
+            "The Lost Art Promotion 2021 L",
+            "The Lost Art Promotion 2022",
+            "The Lost Art Promotion 2022 A",
+            "The Lost Art Promotion 2022 G",
+            "The Lost Art Promotion 2022 K",
+            "The Lost Art Promotion 2023",
+            "The Lost Art Promotion 2023 D",
+            "The Lost Art Promotion 2023 E",
+            "The Lost Art Promotion 2023 F",
+            "The Lost Art Promotion 2023 G",
+            "The Lost Art Promotion 2023 H",
+            "The Lost Art Promotion 2023 I",
+            "The Lost Art Promotion 2024 A",
+            "The Lost Art Promotion 2024 B",
+            "The Lost Art Promotion A",
+            "The Lost Art Promotion B",
+            "The Lost Art Promotion C",
+            "The Lost Art Promotion D",
+            "The Lost Art Promotion E",
+            "The Lost Art Promotion F",
+            "The Lost Art Promotion G",
+            "The Lost Art Promotion H",
+            "The Lost Art Promotion I",
+            "The Lost Art Promotion J",
+            "The Lost Art Promotion K",
+            "The Lost Art Promotion L",
+            "The Lost Art Promotion M",
+            "The Lost Art Promotion N",
+            "The Lost Art Promotion O"
+        ],
+        "tcg_date": "2024-02-14",
+        "card_count": 62
+    },
+    "TLM": {
+        "set_names": [
+            "The Lost Millennium",
+            "The Lost Millennium: Special Edition"
+        ],
+        "tcg_date": "2005-06-01",
+        "card_count": 60
+    },
+    "NECH": {
+        "set_names": [
+            "The New Challengers",
+            "The New Challengers Sneak Peek Participation Card",
+            "The New Challengers: Super Edition"
+        ],
+        "tcg_date": "2014-11-06",
+        "card_count": 100
+    },
+    "TBC1": {
+        "set_names": [
+            "The Pot Collection"
+        ],
+        "tcg_date": "2023-09-01",
+        "card_count": 15
+    },
+    "THSF": {
+        "set_names": [
+            "The Secret Forces"
+        ],
+        "tcg_date": "2015-02-12",
+        "card_count": 60
+    },
+    "TSHD": {
+        "set_names": [
+            "The Shining Darkness",
+            "The Shining Darkness Sneak Peek Participation Card"
+        ],
+        "tcg_date": "2010-05-07",
+        "card_count": 100
+    },
+    "TOCH": {
+        "set_names": [
+            "Toon Chaos"
+        ],
+        "tcg_date": "2020-06-18",
+        "card_count": 60
+    },
+    "TP4": {
+        "set_names": [
+            "Tournament Pack 4"
+        ],
+        "tcg_date": "2003-10-01",
+        "card_count": 20
+    },
+    "TP5": {
+        "set_names": [
+            "Tournament Pack 5"
+        ],
+        "tcg_date": "2004-11-01",
+        "card_count": 20
+    },
+    "TP6": {
+        "set_names": [
+            "Tournament Pack 6"
+        ],
+        "tcg_date": "2005-06-01",
+        "card_count": 20
+    },
+    "TP7": {
+        "set_names": [
+            "Tournament Pack 7"
+        ],
+        "tcg_date": "2005-11-01",
+        "card_count": 20
+    },
+    "TP8": {
+        "set_names": [
+            "Tournament Pack 8"
+        ],
+        "tcg_date": "2006-04-28",
+        "card_count": 20
+    },
+    "TP1": {
+        "set_names": [
+            "Tournament Pack: 1st Season"
+        ],
+        "tcg_date": "2002-09-01",
+        "card_count": 60
+    },
+    "TP2": {
+        "set_names": [
+            "Tournament Pack: 2nd Season"
+        ],
+        "tcg_date": "2002-10-01",
+        "card_count": 30
+    },
+    "TP3": {
+        "set_names": [
+            "Tournament Pack: 3rd Season"
+        ],
+        "tcg_date": "2003-03-01",
+        "card_count": 20
+    },
+    "OPTP": {
+        "set_names": [
+            "Trials of the Pharaoh - Match of the Millennium & Twisted Nightmares promotional card",
+            "Trials of the Pharaoh - Speed Duel: Battle City Box promotional card",
+            "Trials of the Pharaoh - Trials of the Kingdom promotional card"
+        ],
+        "tcg_date": "2020-08-01",
+        "card_count": 1
+    },
+    "TU08": {
+        "set_names": [
+            "Turbo Pack: Booster Eight"
+        ],
+        "tcg_date": "2012-06-01",
+        "card_count": 21
+    },
+    "TU05": {
+        "set_names": [
+            "Turbo Pack: Booster Five"
+        ],
+        "tcg_date": "2011-04-09",
+        "card_count": 21
+    },
+    "TU04": {
+        "set_names": [
+            "Turbo Pack: Booster Four"
+        ],
+        "tcg_date": "2010-11-13",
+        "card_count": 21
+    },
+    "TU01": {
+        "set_names": [
+            "Turbo Pack: Booster One"
+        ],
+        "tcg_date": "2009-08-15",
+        "card_count": 21
+    },
+    "TU07": {
+        "set_names": [
+            "Turbo Pack: Booster Seven"
+        ],
+        "tcg_date": "2012-01-01",
+        "card_count": 21
+    },
+    "TU06": {
+        "set_names": [
+            "Turbo Pack: Booster Six"
+        ],
+        "tcg_date": "2011-08-04",
+        "card_count": 21
+    },
+    "TU03": {
+        "set_names": [
+            "Turbo Pack: Booster Three"
+        ],
+        "tcg_date": "2010-07-10",
+        "card_count": 21
+    },
+    "TU02": {
+        "set_names": [
+            "Turbo Pack: Booster Two"
+        ],
+        "tcg_date": "2010-01-09",
+        "card_count": 21
+    },
+    "TWED": {
+        "set_names": [
+            "Twilight Edition"
+        ],
+        "tcg_date": "2010-01-05",
+        "card_count": 1
+    },
+    "UE02": {
+        "set_names": [
+            "Ultimate Edition 2"
+        ],
+        "tcg_date": "2006-11-11",
+        "card_count": 1
+    },
+    "VASM": {
+        "set_names": [
+            "Valiant Smashers"
+        ],
+        "tcg_date": "2023-11-16",
+        "card_count": 60
+    },
+    "WGRT": {
+        "set_names": [
+            "War of the Giants Reinforcements"
+        ],
+        "tcg_date": "2014-01-17",
+        "card_count": 104
+    },
+    "BPW2": {
+        "set_names": [
+            "War of the Giants: Round 2"
+        ],
+        "tcg_date": "2014-01-17",
+        "card_count": 103
+    },
+    "SDWS": {
+        "set_names": [
+            "Warriors' Strike Structure Deck"
+        ],
+        "tcg_date": "2009-10-23",
+        "card_count": 38
+    },
+    "WISU": {
+        "set_names": [
+            "Wild Survivors"
+        ],
+        "tcg_date": "2023-06-01",
+        "card_count": 60
+    },
+    "WIRA": {
+        "set_names": [
+            "Wing Raiders"
+        ],
+        "tcg_date": "2016-02-11",
+        "card_count": 60
+    },
+    "WCPP": {
+        "set_names": [
+            "World Championship 2010 Card Pack"
+        ],
+        "tcg_date": "2010-08-14",
+        "card_count": 20
+    },
+    "WP11": {
+        "set_names": [
+            "World Championship 2011 Card Pack"
+        ],
+        "tcg_date": "2011-08-01",
+        "card_count": 20
+    },
+    "WSUP": {
+        "set_names": [
+            "World Superstars"
+        ],
+        "tcg_date": "2015-04-16",
+        "card_count": 50
+    },
+    "XSPU": {
+        "set_names": [
+            "X-Saber Power-Up"
+        ],
+        "tcg_date": "2010-11-23",
+        "card_count": 1
+    },
+    "MOV2": {
+        "set_names": [
+            "Yu-Gi-Oh! 3D Bonds Beyond Time DVD promotional card",
+            "Yu-Gi-Oh! 3D Bonds Beyond Time Theater distribution card"
+        ],
+        "tcg_date": "2011-07-25",
+        "card_count": 1
+    },
+    "YMP1": {
+        "set_names": [
+            "Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack"
+        ],
+        "tcg_date": "2011-02-22",
+        "card_count": 9
+    },
+    "YDT1": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Duel Transer promotional cards"
+        ],
+        "tcg_date": "2010-12-07",
+        "card_count": 3
+    },
+    "WC09": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Stardust Accelerator promotional cards",
+            "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator promotional cards"
+        ],
+        "tcg_date": "2009-05-19",
+        "card_count": 2
+    },
+    "TF04": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Tag Force 4 promotional cards"
+        ],
+        "tcg_date": "2009-11-17",
+        "card_count": 3
+    },
+    "TF05": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards"
+        ],
+        "tcg_date": "2010-10-26",
+        "card_count": 3
+    },
+    "YF01": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Volume 1 promotional card"
+        ],
+        "tcg_date": "2011-07-06",
+        "card_count": 1
+    },
+    "YF02": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Volume 2 promotional card"
+        ],
+        "tcg_date": "2012-02-07",
+        "card_count": 1
+    },
+    "YF03": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Volume 3 promotional card"
+        ],
+        "tcg_date": "2012-10-02",
+        "card_count": 1
+    },
+    "YF04": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Volume 4 promotional card"
+        ],
+        "tcg_date": "2013-04-02",
+        "card_count": 1
+    },
+    "YF05": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Volume 5 promotional card"
+        ],
+        "tcg_date": "2013-11-05",
+        "card_count": 1
+    },
+    "YF06": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Volume 6 promotional card"
+        ],
+        "tcg_date": "2014-09-02",
+        "card_count": 1
+    },
+    "YF07": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Volume 7 promotional card"
+        ],
+        "tcg_date": "2015-03-03",
+        "card_count": 1
+    },
+    "YF08": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's volume 8 promotional card"
+        ],
+        "tcg_date": "2015-10-06",
+        "card_count": 1
+    },
+    "YF09": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Volume 9 promotional card"
+        ],
+        "tcg_date": "2016-04-05",
+        "card_count": 1
+    },
+    "WB01": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's Wheelie Breakers Promotional Cards"
+        ],
+        "tcg_date": "2009-05-19",
+        "card_count": 3
+    },
+    "WC10": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards"
+        ],
+        "tcg_date": "2010-02-23",
+        "card_count": 3
+    },
+    "WC11": {
+        "set_names": [
+            "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards"
+        ],
+        "tcg_date": "2011-05-10",
+        "card_count": 3
+    },
+    "WC5": {
+        "set_names": [
+            "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards"
+        ],
+        "tcg_date": "2005-02-15",
+        "card_count": 3
+    },
+    "AC19": {
+        "set_names": [
+            "Yu-Gi-Oh! Advent Calendar",
+            "Yu-Gi-Oh! Advent Calendar (2019)"
+        ],
+        "tcg_date": "2019-09-26",
+        "card_count": 1
+    },
+    "AC18": {
+        "set_names": [
+            "Yu-Gi-Oh! Advent Calendar (2018)"
+        ],
+        "tcg_date": "2018-10-25",
+        "card_count": 24
+    },
+    "YA01": {
+        "set_names": [
+            "Yu-Gi-Oh! ARC-V Volume 1 promotional card"
+        ],
+        "tcg_date": "2017-04-04",
+        "card_count": 1
+    },
+    "YA02": {
+        "set_names": [
+            "Yu-Gi-Oh! ARC-V Volume 2 promotional card"
+        ],
+        "tcg_date": "2017-09-05",
+        "card_count": 1
+    },
+    "YA03": {
+        "set_names": [
+            "Yu-Gi-Oh! ARC-V Volume 3 promotional card"
+        ],
+        "tcg_date": "2018-03-06",
+        "card_count": 1
+    },
+    "YA04": {
+        "set_names": [
+            "Yu-Gi-Oh! ARC-V Volume 4 promotional card"
+        ],
+        "tcg_date": "2018-11-06",
+        "card_count": 1
+    },
+    "YA05": {
+        "set_names": [
+            "Yu-Gi-Oh! ARC-V Volume 5 promotional card"
+        ],
+        "tcg_date": "2019-03-05",
+        "card_count": 1
+    },
+    "YA06": {
+        "set_names": [
+            "Yu-Gi-Oh! ARC-V Volume 6 promotional card"
+        ],
+        "tcg_date": "2019-09-03",
+        "card_count": 1
+    },
+    "YA07": {
+        "set_names": [
+            "Yu-Gi-Oh! ARC-V Volume 7 promotional card"
+        ],
+        "tcg_date": "2020-06-02",
+        "card_count": 1
+    },
+    "CMC": {
+        "set_names": [
+            "Yu-Gi-Oh! Capsule Monster Coliseum promotional cards"
+        ],
+        "tcg_date": "2004-11-26",
+        "card_count": 3
+    },
+    "YCSW": {
+        "set_names": [
+            "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
+            "Yu-Gi-Oh! Championship Series 2011 Prize Card",
+            "Yu-Gi-Oh! Championship Series 2012 Prize Card",
+            "Yu-Gi-Oh! Championship Series 2013 Prize Card",
+            "Yu-Gi-Oh! Championship Series 2014 Prize Card",
+            "Yu-Gi-Oh! Championship Series 2015 Prize Card",
+            "Yu-Gi-Oh! Championship Series 2016 Prize Card",
+            "Yu-Gi-Oh! Championship Series 2017 prize card",
+            "Yu-Gi-Oh! Championship Series 2018 prize card",
+            "Yu-Gi-Oh! Championship Series 2019 prize card",
+            "Yu-Gi-Oh! Championship Series 2022 prize card",
+            "Yu-Gi-Oh! Championship Series 2023 prize card"
+        ],
+        "tcg_date": "2010-05-16",
+        "card_count": 3
+    },
+    "DDS": {
+        "set_names": [
+            "Yu-Gi-Oh! Dark Duel Stories promotional cards"
+        ],
+        "tcg_date": "2002-03-19",
+        "card_count": 6
+    },
+    "YDPR": {
+        "set_names": [
+            "Yu-Gi-Oh! Day April 2019 promotional card"
+        ],
+        "tcg_date": "2019-04-06",
+        "card_count": 1
+    },
+    "DBT": {
+        "set_names": [
+            "Yu-Gi-Oh! Destiny Board Traveler promotional cards"
+        ],
+        "tcg_date": "2004-10-26",
+        "card_count": 3
+    },
+    "ROD": {
+        "set_names": [
+            "Yu-Gi-Oh! Double Pack promotional cards",
+            "Yu-Gi-Oh! Reshef of Destruction promotional cards"
+        ],
+        "tcg_date": "2006-02-22",
+        "card_count": 2
+    },
+    "EHC1": {
+        "set_names": [
+            "Yu-Gi-Oh! Elemental Hero Collection 1"
+        ],
+        "tcg_date": "2007-11-13",
+        "card_count": 4
+    },
+    "EHC2": {
+        "set_names": [
+            "Yu-Gi-Oh! Elemental Hero Collection 2"
+        ],
+        "tcg_date": "2007-11-13",
+        "card_count": 4
+    },
+    "FMR": {
+        "set_names": [
+            "Yu-Gi-Oh! Forbidden Memories promotional cards"
+        ],
+        "tcg_date": "2002-11-25",
+        "card_count": 3
+    },
+    "YDB1": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Card Almanac promotional cards"
+        ],
+        "tcg_date": "2007-11-30",
+        "card_count": 3
+    },
+    "GX1": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Duel Academy promotional cards"
+        ],
+        "tcg_date": "2006-01-10",
+        "card_count": 3
+    },
+    "GSE": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Special Edition"
+        ],
+        "tcg_date": "2006-04-01",
+        "card_count": 1
+    },
+    "GX03": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Spirit Caller promotional cards"
+        ],
+        "tcg_date": "2007-01-02",
+        "card_count": 3
+    },
+    "GX04": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Tag Force 2 promotional cards"
+        ],
+        "tcg_date": "2007-09-18",
+        "card_count": 3
+    },
+    "GX06": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Tag Force 3 promotional cards"
+        ],
+        "tcg_date": "2008-11-28",
+        "card_count": 3
+    },
+    "GX05": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Tag Force Evolution promotional cards"
+        ],
+        "tcg_date": "2007-12-07",
+        "card_count": 3
+    },
+    "GX02": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Tag Force promotional cards"
+        ],
+        "tcg_date": "2006-11-16",
+        "card_count": 3
+    },
+    "UBP1": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Ultimate Beginner's Pack"
+        ],
+        "tcg_date": "2006-07-19",
+        "card_count": 5
+    },
+    "YG01": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 1 promotional card"
+        ],
+        "tcg_date": "2007-11-06",
+        "card_count": 1
+    },
+    "YG02": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 2 promotional card"
+        ],
+        "tcg_date": "2008-11-04",
+        "card_count": 1
+    },
+    "YG03": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 3 promotional card"
+        ],
+        "tcg_date": "2009-06-02",
+        "card_count": 1
+    },
+    "YG04": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 4 promotional card"
+        ],
+        "tcg_date": "2010-01-05",
+        "card_count": 1
+    },
+    "YG05": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 5 promotional card"
+        ],
+        "tcg_date": "2010-10-05",
+        "card_count": 1
+    },
+    "YG06": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 6 promotional card"
+        ],
+        "tcg_date": "2011-03-01",
+        "card_count": 1
+    },
+    "YG07": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 7 promotional card"
+        ],
+        "tcg_date": "2011-08-18",
+        "card_count": 1
+    },
+    "YG08": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 8 promotional card"
+        ],
+        "tcg_date": "2012-01-03",
+        "card_count": 1
+    },
+    "YG09": {
+        "set_names": [
+            "Yu-Gi-Oh! GX Volume 9 promotional card"
+        ],
+        "tcg_date": "2011-08-07",
+        "card_count": 1
+    },
+    "LOD2": {
+        "set_names": [
+            "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards"
+        ],
+        "tcg_date": "2019-08-20",
+        "card_count": 3
+    },
+    "NTR": {
+        "set_names": [
+            "Yu-Gi-Oh! Nightmare Troubadour promotional cards"
+        ],
+        "tcg_date": "2005-08-30",
+        "card_count": 3
+    },
+    "PCJ": {
+        "set_names": [
+            "Yu-Gi-Oh! Power of Chaos: Joey the Passion promotional cards"
+        ],
+        "tcg_date": "2004-06-29",
+        "card_count": 3
+    },
+    "PCK": {
+        "set_names": [
+            "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge promotional cards"
+        ],
+        "tcg_date": "2004-04-06",
+        "card_count": 6
+    },
+    "PCY": {
+        "set_names": [
+            "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny Limited Collector's Edition",
+            "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards"
+        ],
+        "tcg_date": "2003-11-18",
+        "card_count": 2
+    },
+    "YR01": {
+        "set_names": [
+            "Yu-Gi-Oh! R Volume 1 promotional card",
+            "Yu-Gi-Oh! R Volume 3 promotional card"
+        ],
+        "tcg_date": "2009-06-10",
+        "card_count": 1
+    },
+    "YR04": {
+        "set_names": [
+            "Yu-Gi-Oh! R Volume 4 promotional card"
+        ],
+        "tcg_date": "2010-04-29",
+        "card_count": 1
+    },
+    "YR05": {
+        "set_names": [
+            "Yu-Gi-Oh! R Volume 5 promotional card"
+        ],
+        "tcg_date": "2010-06-02",
+        "card_count": 1
+    },
+    "21CC": {
+        "set_names": [
+            "Yu-Gi-Oh! TCG Remote Duel Extravaganza participation card"
+        ],
+        "tcg_date": "2021-05-22",
+        "card_count": 1
+    },
+    "MVPC": {
+        "set_names": [
+            "Yu-Gi-Oh! The Dark Side of Dimensions Blu-ray & DVD promotional card",
+            "Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards"
+        ],
+        "tcg_date": "2017-05-29",
+        "card_count": 1
+    },
+    "MVP1": {
+        "set_names": [
+            "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
+            "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Special Edition",
+            "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition"
+        ],
+        "tcg_date": "2016-07-21",
+        "card_count": 57
+    },
+    "DOD": {
+        "set_names": [
+            "Yu-Gi-Oh! The Dawn of Destiny promotional cards"
+        ],
+        "tcg_date": "2004-03-23",
+        "card_count": 5
+    },
+    "DOR": {
+        "set_names": [
+            "Yu-Gi-Oh! The Duelists of the Roses promotional cards"
+        ],
+        "tcg_date": "2003-02-16",
+        "card_count": 6
+    },
+    "EDS": {
+        "set_names": [
+            "Yu-Gi-Oh! The Eternal Duelist Soul promotional cards"
+        ],
+        "tcg_date": "2002-10-15",
+        "card_count": 3
+    },
+    "TFK": {
+        "set_names": [
+            "Yu-Gi-Oh! The Falsebound Kingdom promotional cards"
+        ],
+        "tcg_date": "2003-11-04",
+        "card_count": 6
+    },
+    "TSC": {
+        "set_names": [
+            "Yu-Gi-Oh! The Sacred Cards promotional cards"
+        ],
+        "tcg_date": "2003-11-04",
+        "card_count": 6
+    },
+    "EM1": {
+        "set_names": [
+            "Yu-Gi-Oh! Trading Card Game Tour 2004 promotional card"
+        ],
+        "tcg_date": "2004-06-19",
+        "card_count": 1
+    },
+    "WC6": {
+        "set_names": [
+            "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards"
+        ],
+        "tcg_date": "2006-03-14",
+        "card_count": 3
+    },
+    "WCS": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship 2004 prize cards",
+            "Yu-Gi-Oh! World Championship 2005 prize cards"
+        ],
+        "tcg_date": "2004-07-25",
+        "card_count": 3
+    },
+    "WCPS": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship 2006 prize cards",
+            "Yu-Gi-Oh! World Championship 2007 prize cards"
+        ],
+        "tcg_date": "2006-07-02",
+        "card_count": 1
+    },
+    "WC07": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship 2007 promotional cards"
+        ],
+        "tcg_date": "2007-03-20",
+        "card_count": 3
+    },
+    "WC08": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship 2008 promotional cards"
+        ],
+        "tcg_date": "2007-12-04",
+        "card_count": 3
+    },
+    "2017": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship 2017 prize cards"
+        ],
+        "tcg_date": "2017-08-13",
+        "card_count": 2
+    },
+    "2018": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship 2018 prize cards"
+        ],
+        "tcg_date": "2018-08-05",
+        "card_count": 2
+    },
+    "2019": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship 2019 Japanese National Qualifiers prize cards"
+        ],
+        "tcg_date": "2019-02-01",
+        "card_count": 2
+    },
+    "WQ11": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship Qualifier National Championships 2011 prize cards"
+        ],
+        "tcg_date": "2011-05-01",
+        "card_count": 3
+    },
+    "WC4": {
+        "set_names": [
+            "Yu-Gi-Oh! World Championship Tournament 2004 promotional cards"
+        ],
+        "tcg_date": "2004-02-10",
+        "card_count": 6
+    },
+    "SDD": {
+        "set_names": [
+            "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards"
+        ],
+        "tcg_date": "2003-04-15",
+        "card_count": 6
+    },
+    "YZ01": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 1 promotional card"
+        ],
+        "tcg_date": "2012-06-05",
+        "card_count": 1
+    },
+    "YZ02": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 2 promotional card"
+        ],
+        "tcg_date": "2012-12-04",
+        "card_count": 1
+    },
+    "YZ03": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 3 promotional card"
+        ],
+        "tcg_date": "2013-06-04",
+        "card_count": 1
+    },
+    "YZ04": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 4 promotional card"
+        ],
+        "tcg_date": "2014-01-07",
+        "card_count": 1
+    },
+    "YZ05": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 5 promotional card"
+        ],
+        "tcg_date": "2014-07-01",
+        "card_count": 1
+    },
+    "YZ06": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 6 promotional card"
+        ],
+        "tcg_date": "2015-02-03",
+        "card_count": 1
+    },
+    "YZ07": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 7 promotional card"
+        ],
+        "tcg_date": "2015-09-01",
+        "card_count": 1
+    },
+    "YZ08": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 8 promotional card"
+        ],
+        "tcg_date": "2016-03-01",
+        "card_count": 1
+    },
+    "YZ09": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL Volume 9 promotional card"
+        ],
+        "tcg_date": "2016-09-06",
+        "card_count": 1
+    },
+    "ZDC1": {
+        "set_names": [
+            "Yu-Gi-Oh! ZEXAL World Duel Carnival promotional cards"
+        ],
+        "tcg_date": "2014-06-26",
+        "card_count": 3
+    },
+    "YUCB": {
+        "set_names": [
+            "Yugi's Collector Box"
+        ],
+        "tcg_date": "2017-09-15",
+        "card_count": 1
+    },
+    "YGLD": {
+        "set_names": [
+            "Yugi's Legendary Decks"
+        ],
+        "tcg_date": "2015-11-12",
+        "card_count": 126
+    },
+    "ZTIN": {
+        "set_names": [
+            "Zexal Collection Tin"
+        ],
+        "tcg_date": "2013-03-07",
+        "card_count": 24
+    },
+    "SDZW": {
+        "set_names": [
+            "Zombie World Structure Deck"
+        ],
+        "tcg_date": "2008-10-21",
+        "card_count": 37
+    }
+}
