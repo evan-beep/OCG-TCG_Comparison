@@ -5,10 +5,10 @@ import numpy as np
 import time
 import requests
 
+
 def get_rakuten():
     # API endpoint
     url = "https://app.rakuten.co.jp/services/api/IchibaItem/Search/20220601"
-
 
     def middle_points_average(data):
         sorted_data = np.sort(data)
@@ -28,7 +28,9 @@ def get_rakuten():
         'R': 'レア',
         'N': 'ノーマル',
         'NR': 'ノーマル',
-        'QCSE': 'クォーターセンチュリー'
+        'QCSE': 'クォーターセンチュリー',
+        'P-N': 'ノーマル',
+        'CR': 'コレクターズレア'
     }
     # Connect to the SQLite database
     conn = sqlite3.connect('Card_Prices.db')
@@ -62,31 +64,32 @@ def get_rakuten():
 
     # Print each record
     for (cardName, r, num) in records:
-        
+
         keyword = f'{num} {rarity_dict[r]}'
         print(keyword)
         # Parameters for the API call
         params = {
-            "applicationId": "[APPLICATION ID]",  # Replace [APPLICATION ID] with your actual application ID
+            # Replace [APPLICATION ID] with your actual application ID
+            "applicationId": "1065074286901705246",
             "keyword": keyword,
             "sort": "+itemPrice"
         }
-        
+
         response = requests.get(url, params=params)
         if response.status_code == 200:
             # Parse JSON response
             data = response.json()
-            
+
             priceList = []
             for item in data['Items']:
                 priceList.append(int(item['Item']['itemPrice']))
             price = 0
-            
+
             try:
                 price = min(priceList)
             except ValueError:
                 price = 0
-                
+
             cursor.execute('''
                         INSERT OR IGNORE INTO rakuten_prices (cardName, rarity, num, price, set_name, DateTime)
                         VALUES (?, ?, ?, ?, ?, ?)
@@ -95,7 +98,7 @@ def get_rakuten():
         else:
             print("Failed to retrieve data:", response.status_code)
             print(response)
-        
+
         time.sleep(0.65)
     print('All Done')
     # Close the connection to the database
