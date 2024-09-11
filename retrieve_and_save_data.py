@@ -45,6 +45,7 @@ def main():
     get_OCG_card_prices('ac04')
     get_OCG_card_prices('rota')
     get_OCG_card_prices('dbcb')
+    get_OCG_card_prices('sd47')
 
     get_TCG_card_prices('Battles of Legend: Terminal Revenge')
     get_TCG_card_prices('The Infinite Forbidden')
