@@ -4,4 +4,6 @@ yuyutei_web/
 OCGvsTCG.pbix
 data/
 get_rakuten_data.py
-sets/
+sets/code_to_name.json
+sets/name_to_code.json
+check.py
